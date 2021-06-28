@@ -1397,3 +1397,454 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.28-09.01.49:963][991]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.06.28-09.07.00:388][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
 [2021.06.28-09.07.00:952][407]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-13.47.50:232][614]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-13.47.53:242][790]LogRenderer: Reallocating scene render targets to support 1196x376 Format 10 NumSamples 1 (Frame:103222).
+[2021.06.28-13.47.53:274][791]LogRenderer: Reallocating scene render targets to support 1196x380 Format 10 NumSamples 1 (Frame:103224).
+[2021.06.28-13.47.53:306][792]LogRenderer: Reallocating scene render targets to support 1196x404 Format 10 NumSamples 1 (Frame:103226).
+[2021.06.28-13.47.53:334][793]LogRenderer: Reallocating scene render targets to support 1196x436 Format 10 NumSamples 1 (Frame:103228).
+[2021.06.28-13.47.53:361][794]LogRenderer: Reallocating scene render targets to support 1196x480 Format 10 NumSamples 1 (Frame:103230).
+[2021.06.28-13.47.53:388][795]LogRenderer: Reallocating scene render targets to support 1196x516 Format 10 NumSamples 1 (Frame:103232).
+[2021.06.28-13.47.53:415][796]LogRenderer: Reallocating scene render targets to support 1196x552 Format 10 NumSamples 1 (Frame:103234).
+[2021.06.28-13.47.53:443][797]LogRenderer: Reallocating scene render targets to support 1196x572 Format 10 NumSamples 1 (Frame:103236).
+[2021.06.28-13.47.53:476][798]LogRenderer: Reallocating scene render targets to support 1196x580 Format 10 NumSamples 1 (Frame:103238).
+[2021.06.28-13.47.53:502][799]LogRenderer: Reallocating scene render targets to support 1196x588 Format 10 NumSamples 1 (Frame:103240).
+[2021.06.28-13.47.53:604][800]LogRenderer: Reallocating scene render targets to support 1196x600 Format 10 NumSamples 1 (Frame:103242).
+[2021.06.28-13.47.53:621][801]LogRenderer: Reallocating scene render targets to support 1196x632 Format 10 NumSamples 1 (Frame:103244).
+[2021.06.28-13.48.02:404][327]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.28-13.48.02:416][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-13.48.02:417][327]PIE: New page: PIE session: Minimal_Default (28 Jun 2021, 15:48:02)
+[2021.06.28-13.48.02:418][327]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.28-13.48.02:450][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032332s)
+[2021.06.28-13.48.02:514][327]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.28-13.48.02:516][327]LogPlayLevel: PIE: World Init took: (0.065144s)
+[2021.06.28-13.48.02:516][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.098492s)
+[2021.06.28-13.48.02:583][327]LogUObjectHash: Compacting FUObjectHashTables data took  11.18ms
+[2021.06.28-13.48.02:616][327]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.06.28-13.48.02:617][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-13.48.02:617][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-13.48.02:617][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-13.48.02:617][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-13.48.02:617][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-13.48.02:617][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-13.48.02:617][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-13.48.02:617][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-13.48.02:617][327]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-13.48.02:617][327]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-13.48.02:655][327]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-13.48.02:655][327]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-13.48.02:788][327]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.28-13.48.02:790][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-13.48.02:790][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-13.48.02:790][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-13.48.02:806][327]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-13.48.02:806][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-13.48.02:806][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-13.48.02:807][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-13.48.02:807][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-13.48.02:807][327]LogInit: FAudioDevice initialized.
+[2021.06.28-13.48.02:807][327]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default'.
+[2021.06.28-13.48.02:829][327]LogLoad: Game class is 'GameModeBase'
+[2021.06.28-13.48.02:831][327]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.06.28-14.48.02
+[2021.06.28-13.48.02:831][327]LogWorld: Bringing up level for play took: 0.001218
+[2021.06.28-13.48.02:831][327]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.06.28-13.48.02:834][327]PIE: Server logged in
+[2021.06.28-13.48.02:835][327]PIE: Play in editor total start time 0.422 seconds.
+[2021.06.28-13.48.11:969][840]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.28-13.48.11:969][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-13.48.11:969][840]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.28-13.48.11:969][840]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-13.48.11:969][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-13.48.11:977][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-13.48.11:986][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-13.48.11:990][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-13.48.11:991][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-13.48.11:992][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-13.48.12:007][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-13.48.12:009][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.28-13.48.12:042][841]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.06.28-13.48.50:465][662]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.06.28-13.49.30:109][ 33]Cmd: TRANSACTION UNDO
+[2021.06.28-13.49.30:109][ 33]LogEditorTransaction: Undo Move Actors
+[2021.06.28-13.49.31:512][ 95]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-13.49.32:062][127]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-13.49.47:814][ 70]Cmd: DUPLICATE
+[2021.06.28-13.49.47:814][ 70]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.50.04:600][ 73]Cmd: DUPLICATE
+[2021.06.28-13.50.04:600][ 73]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.50.45:413][511]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.06.28-13.51.35:352][496]Cmd: DUPLICATE
+[2021.06.28-13.51.35:352][496]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.51.46:005][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2021.06.28-13.51.55:569][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2021.06.28-13.52.01:676][ 48]Cmd: DUPLICATE
+[2021.06.28-13.52.01:676][ 48]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.52.14:791][829]Cmd: DUPLICATE
+[2021.06.28-13.52.14:791][829]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.52.55:425][253]Cmd: DUPLICATE
+[2021.06.28-13.52.55:425][253]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.53.03:772][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-13.53.12:877][294]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-13.53.26:331][ 98]Cmd: DUPLICATE
+[2021.06.28-13.53.26:331][ 98]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.53.34:361][575]Cmd: DUPLICATE
+[2021.06.28-13.53.34:361][575]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.53.43:575][123]Cmd: DUPLICATE
+[2021.06.28-13.53.43:576][123]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.53.54:801][790]Cmd: TRANSACTION UNDO
+[2021.06.28-13.53.54:802][790]LogEditorTransaction: Undo Move Actors
+[2021.06.28-13.54.31:682][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-13.54.57:916][547]Cmd: DUPLICATE
+[2021.06.28-13.54.57:916][547]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.55.21:995][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-13.56.10:392][863]Cmd: DUPLICATE
+[2021.06.28-13.56.10:392][863]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.56.31:271][107]Cmd: DUPLICATE
+[2021.06.28-13.56.31:271][107]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.56.44:024][864]Cmd: DUPLICATE
+[2021.06.28-13.56.44:024][864]Cmd: ACTOR DUPLICATE
+[2021.06.28-13.56.53:438][422]Cmd: TRANSACTION UNDO
+[2021.06.28-13.56.53:438][422]LogEditorTransaction: Undo Move Actors
+[2021.06.28-13.57.29:310][549]Cmd: TRANSACTION UNDO
+[2021.06.28-13.57.29:310][549]LogEditorTransaction: Undo Move Actors
+[2021.06.28-13.58.06:978][790]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.06.28-13.59.11:896][660]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.06.28-14.00.40:707][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.06.28-14.00.41:062][579]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Minimal_Default_Auto452CCF1114DCE3FF8127073A0320D285A.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2021.06.28-14.00.41:063][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.373
+[2021.06.28-14.00.41:063][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.373
+[2021.06.28-14.45.02:345][351]Cmd: TRANSACTION UNDO
+[2021.06.28-14.45.02:345][351]LogEditorTransaction: Undo Scale Actors
+[2021.06.28-14.45.12:902][976]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.45.28:218][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.45.28:569][893]Cmd: TRANSACTION UNDO
+[2021.06.28-14.45.28:569][893]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.28-14.45.29:056][918]Cmd: TRANSACTION UNDO
+[2021.06.28-14.45.29:056][918]LogEditorTransaction: Undo Set Scale
+[2021.06.28-14.45.29:424][936]Cmd: TRANSACTION UNDO
+[2021.06.28-14.45.29:424][936]LogEditorTransaction: Undo Set Scale
+[2021.06.28-14.46.37:931][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.46.42:804][310]Cmd: DUPLICATE
+[2021.06.28-14.46.42:804][310]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.46.50:025][735]Cmd: DUPLICATE
+[2021.06.28-14.46.50:025][735]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.47.04:502][590]Cmd: DUPLICATE
+[2021.06.28-14.47.04:502][590]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.47.16:172][279]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.47.20:806][552]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.47.30:150][ 99]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.48.00:650][912]Cmd: DUPLICATE
+[2021.06.28-14.48.00:650][912]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.48.06:865][274]Cmd: DUPLICATE
+[2021.06.28-14.48.06:865][274]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.48.21:991][171]Cmd: TRANSACTION UNDO
+[2021.06.28-14.48.21:991][171]LogEditorTransaction: Undo Scale Actors
+[2021.06.28-14.48.32:312][774]Cmd: TRANSACTION UNDO
+[2021.06.28-14.48.32:312][774]LogEditorTransaction: Undo Scale Actors
+[2021.06.28-14.49.33:814][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-14.49.34:355][464]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.49.34:998][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-14.49.36:118][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.06.28-14.49.45:703][141]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.50.08:610][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.50.16:513][983]Cmd: TRANSACTION UNDO
+[2021.06.28-14.50.16:513][983]LogEditorTransaction: Undo Scale Actors
+[2021.06.28-14.50.32:147][912]Cmd: DUPLICATE
+[2021.06.28-14.50.32:147][912]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.50.52:748][138]Cmd: DUPLICATE
+[2021.06.28-14.50.52:748][138]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.51.06:476][949]Cmd: DUPLICATE
+[2021.06.28-14.51.06:476][949]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.51.19:036][686]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.51.35:988][690]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.51.45:371][249]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.51.56:405][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-14.52.11:935][829]Cmd: DUPLICATE
+[2021.06.28-14.52.11:935][829]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.52.20:519][334]Cmd: TRANSACTION UNDO
+[2021.06.28-14.52.20:519][334]LogEditorTransaction: Undo Scale Actors
+[2021.06.28-14.52.24:706][575]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.52.30:399][912]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.52.41:501][576]Cmd: DUPLICATE
+[2021.06.28-14.52.41:501][576]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.53.07:067][ 89]Cmd: DUPLICATE
+[2021.06.28-14.53.07:067][ 89]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.53.21:310][928]Cmd: DUPLICATE
+[2021.06.28-14.53.21:310][928]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.54.05:846][547]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.54.10:670][832]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.54.16:572][184]Cmd: DUPLICATE
+[2021.06.28-14.54.16:572][184]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.54.37:096][405]Cmd: DUPLICATE
+[2021.06.28-14.54.37:096][405]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.55.01:715][846]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.55.11:814][450]Cmd: DUPLICATE
+[2021.06.28-14.55.11:814][450]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.55.26:455][310]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.55.31:320][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.06.28-14.55.36:295][898]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.55.40:244][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-14.55.48:221][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.06.28-14.55.52:411][813]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.55.54:314][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2021.06.28-14.55.59:128][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-14.56.01:347][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.06.28-14.56.05:047][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.06.28-14.56.08:957][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.06.28-14.56.09:394][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.28-14.56.12:363][  2]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.56.14:602][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-14.56.20:769][502]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.56.28:515][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.06.28-14.56.38:058][520]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.56.38:542][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.56.51:131][302]Cmd: DUPLICATE
+[2021.06.28-14.56.51:131][302]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.57.17:732][876]Cmd: DUPLICATE
+[2021.06.28-14.57.17:732][876]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.57.34:263][846]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.57.39:835][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-14.57.57:572][231]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.58.02:717][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2021.06.28-14.58.06:108][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2021.06.28-14.58.08:212][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2021.06.28-14.58.11:365][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2021.06.28-14.58.14:219][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2021.06.28-14.58.15:672][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2021.06.28-14.58.17:621][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2021.06.28-14.58.20:656][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2021.06.28-14.58.21:409][650]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor9)
+[2021.06.28-14.58.27:065][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2021.06.28-14.58.33:485][372]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.58.42:535][908]Cmd: TRANSACTION UNDO
+[2021.06.28-14.58.42:535][908]LogEditorTransaction: Undo Move Actors
+[2021.06.28-14.58.58:166][823]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.59.13:344][729]Cmd: DUPLICATE
+[2021.06.28-14.59.13:344][729]Cmd: ACTOR DUPLICATE
+[2021.06.28-14.59.26:813][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.59.36:379][ 89]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-14.59.48:038][777]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.00.24:639][972]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.28-15.00.24:646][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-15.00.24:646][972]PIE: New page: PIE session: Minimal_Default (28 Jun 2021, 17:00:24)
+[2021.06.28-15.00.24:647][972]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.28-15.00.24:672][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025746s)
+[2021.06.28-15.00.24:674][972]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.28-15.00.24:674][972]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2021.06.28-15.00.24:674][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.027448s)
+[2021.06.28-15.00.24:726][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.06.28-15.00.24:737][972]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.28-15.00.24:737][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-15.00.24:737][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-15.00.24:737][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-15.00.24:737][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-15.00.24:737][972]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-15.00.24:737][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-15.00.24:737][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-15.00.24:737][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-15.00.24:738][972]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-15.00.24:738][972]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-15.00.24:741][972]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-15.00.24:741][972]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-15.00.24:884][972]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.28-15.00.24:884][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-15.00.24:884][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-15.00.24:884][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-15.00.24:885][972]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-15.00.24:885][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-15.00.24:885][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-15.00.24:897][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-15.00.24:897][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-15.00.24:897][972]LogInit: FAudioDevice initialized.
+[2021.06.28-15.00.24:897][972]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default'.
+[2021.06.28-15.00.24:915][972]LogLoad: Game class is 'GameModeBase'
+[2021.06.28-15.00.24:917][972]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.06.28-16.00.24
+[2021.06.28-15.00.24:918][972]LogWorld: Bringing up level for play took: 0.001848
+[2021.06.28-15.00.24:918][972]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.06.28-15.00.25:234][972]PIE: Server logged in
+[2021.06.28-15.00.25:235][972]PIE: Play in editor total start time 0.591 seconds.
+[2021.06.28-15.00.46:536][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.00.46:536][246]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.28-15.00.46:537][246]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-15.00.46:537][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.00.46:548][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-15.00.46:555][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.00.46:562][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.00.46:562][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.00.46:563][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.00.46:583][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.28-15.00.46:612][247]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.06.28-15.00.49:942][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2021.06.28-15.00.54:844][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.00.58:043][929]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.28-15.00.58:049][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-15.00.58:049][929]PIE: New page: PIE session: Minimal_Default (28 Jun 2021, 17:00:58)
+[2021.06.28-15.00.58:049][929]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.28-15.00.58:072][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023234s)
+[2021.06.28-15.00.58:073][929]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.28-15.00.58:073][929]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2021.06.28-15.00.58:073][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.024453s)
+[2021.06.28-15.00.58:080][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.28-15.00.58:083][929]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.28-15.00.58:083][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-15.00.58:083][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-15.00.58:083][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-15.00.58:083][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-15.00.58:083][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-15.00.58:083][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-15.00.58:083][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-15.00.58:083][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-15.00.58:083][929]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-15.00.58:083][929]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-15.00.58:086][929]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-15.00.58:086][929]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-15.00.58:217][929]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.28-15.00.58:217][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-15.00.58:217][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-15.00.58:217][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-15.00.58:218][929]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-15.00.58:218][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-15.00.58:218][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-15.00.58:229][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-15.00.58:229][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-15.00.58:229][929]LogInit: FAudioDevice initialized.
+[2021.06.28-15.00.58:229][929]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default'.
+[2021.06.28-15.00.58:236][929]LogLoad: Game class is 'GameModeBase'
+[2021.06.28-15.00.58:238][929]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.06.28-16.00.58
+[2021.06.28-15.00.58:238][929]LogWorld: Bringing up level for play took: 0.001348
+[2021.06.28-15.00.58:238][929]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.06.28-15.00.58:240][929]PIE: Server logged in
+[2021.06.28-15.00.58:240][929]PIE: Play in editor total start time 0.194 seconds.
+[2021.06.28-15.01.14:824][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.01.14:824][921]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.28-15.01.14:824][921]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-15.01.14:825][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.01.14:835][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-15.01.14:841][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.01.14:847][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.01.14:847][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.01.14:849][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.01.14:869][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.06.28-15.01.14:918][923]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.06.28-15.01.37:097][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.02.05:231][905]Cmd: DUPLICATE
+[2021.06.28-15.02.05:231][905]Cmd: ACTOR DUPLICATE
+[2021.06.28-15.02.14:438][446]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.02.24:134][ 23]Cmd: DUPLICATE
+[2021.06.28-15.02.24:134][ 23]Cmd: ACTOR DUPLICATE
+[2021.06.28-15.02.33:342][566]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.02.47:110][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.03.12:863][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.06.28-15.03.12:929][545]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Minimal_Default_Auto53DE59E4D4CFB17FF25B00DA7FF37BC9A.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2021.06.28-15.03.12:930][545]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.084
+[2021.06.28-15.03.12:930][545]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2021.06.28-15.14.18:954][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.28-15.14.18:959][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-15.14.18:959][ 39]PIE: New page: PIE session: Minimal_Default (28 Jun 2021, 17:14:18)
+[2021.06.28-15.14.18:959][ 39]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.28-15.14.18:979][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019994s)
+[2021.06.28-15.14.18:980][ 39]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.28-15.14.18:980][ 39]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2021.06.28-15.14.18:980][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.021173s)
+[2021.06.28-15.14.18:988][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.28-15.14.18:991][ 39]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.28-15.14.18:991][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-15.14.18:991][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-15.14.18:991][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-15.14.18:991][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-15.14.18:991][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-15.14.18:991][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-15.14.18:991][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-15.14.18:991][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-15.14.18:992][ 39]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-15.14.18:992][ 39]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-15.14.18:994][ 39]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-15.14.18:994][ 39]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-15.14.19:131][ 39]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.28-15.14.19:131][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-15.14.19:131][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-15.14.19:131][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-15.14.19:131][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-15.14.19:132][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-15.14.19:132][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-15.14.19:146][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-15.14.19:146][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-15.14.19:146][ 39]LogInit: FAudioDevice initialized.
+[2021.06.28-15.14.19:146][ 39]LogAudio: Display: Audio Device (ID: 8) registered with world 'Minimal_Default'.
+[2021.06.28-15.14.19:154][ 39]LogLoad: Game class is 'GameModeBase'
+[2021.06.28-15.14.19:155][ 39]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.06.28-16.14.19
+[2021.06.28-15.14.19:156][ 39]LogWorld: Bringing up level for play took: 0.001499
+[2021.06.28-15.14.19:156][ 39]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.06.28-15.14.19:158][ 39]PIE: Server logged in
+[2021.06.28-15.14.19:159][ 39]PIE: Play in editor total start time 0.201 seconds.
+[2021.06.28-15.15.23:295][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.15.23:295][884]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.28-15.15.23:295][884]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-15.15.23:296][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.15.23:303][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-15.15.23:309][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.15.23:315][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.15.23:315][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.15.23:316][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.15.23:334][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.28-15.15.23:384][886]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.06.28-15.15.42:829][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.28-15.15.42:853][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.28-15.15.42:912][ 52]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Minimal_DefaultED7FFE1C4F9B66B53AC26CB2D82EE73F.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.28-15.15.42:926][ 52]LogFileHelpers: Saving map 'Minimal_Default' took 0.079
+[2021.06.28-15.15.42:937][ 52]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.06.28-15.15.42:937][ 52]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.28-15.16.25:710][662]Cmd: DUPLICATE
+[2021.06.28-15.16.25:710][662]Cmd: ACTOR DUPLICATE
+[2021.06.28-15.16.47:357][939]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.25.43:185][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.06.28-15.25.43:258][716]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Minimal_Default_Auto697CD34C74C52E0FE20325999521E1C36.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
+[2021.06.28-15.25.43:259][716]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.085
+[2021.06.28-15.25.43:259][716]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2021.06.28-15.37.35:324][289]Cmd: DUPLICATE
+[2021.06.28-15.37.35:324][289]Cmd: ACTOR DUPLICATE
+[2021.06.28-15.38.10:442][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.06.28-15.38.10:510][988]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Minimal_Default_Auto7C196AAEF40AE187FE7CB08805692BC38.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2021.06.28-15.38.10:511][988]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.075
+[2021.06.28-15.38.10:511][988]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2021.06.28-15.39.20:802][369]Cmd: DUPLICATE
+[2021.06.28-15.39.20:802][369]Cmd: ACTOR DUPLICATE
+[2021.06.28-15.42.23:656][973]Cmd: TRANSACTION UNDO
+[2021.06.28-15.42.23:656][973]LogEditorTransaction: Undo Move Actors
+[2021.06.28-15.42.24:075][991]Cmd: DUPLICATE
+[2021.06.28-15.42.24:075][991]Cmd: ACTOR DUPLICATE
+[2021.06.28-15.44.58:755][723]Cmd: DELETE
+[2021.06.28-15.44.58:755][723]Cmd: ACTOR DELETE
+[2021.06.28-15.44.58:768][723]LogEditorActor: Deleted Actor: Brush
+[2021.06.28-15.44.58:781][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.06.28-15.44.58:811][723]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2021.06.28-15.45.02:087][917]Cmd: DUPLICATE
+[2021.06.28-15.45.02:087][917]Cmd: ACTOR DUPLICATE
+[2021.06.28-15.45.21:735][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.45.30:157][565]Cmd: TRANSACTION UNDO
+[2021.06.28-15.45.30:157][565]LogEditorTransaction: Undo Scale Actors
+[2021.06.28-15.45.30:901][603]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.45.42:317][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.06.28-15.45.42:342][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.28-15.45.42:410][286]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Minimal_Default1DD46E6B40D17B3B076EFCAB3DCDF5F9.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.28-15.45.42:422][286]LogFileHelpers: Saving map 'Minimal_Default' took 0.086
+[2021.06.28-15.45.42:437][286]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.06.28-15.45.42:437][286]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.28-15.48.59:833][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.28-15.49.26:212][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.28-15.52.55:379][772]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.53.08:487][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.53.13:377][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.28-15.53.13:441][819]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Minimal_Default0362924C49496A55B47E9BB982D11FD7.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.28-15.53.13:528][819]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Saved/Minimal_Default_BuiltData1FB04E5B4E89C35D18FD628924DB2A1C.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Desktop/GJRTutorialLevel/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.06.28-15.53.13:542][819]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.28-15.53.13:542][819]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.06.28-15.53.13:542][819]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.28-15.53.15:799][955]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.54.52:100][890]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.54.53:446][969]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.54.56:309][138]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.54.56:783][165]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.54.58:451][263]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.54.59:833][345]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.55.33:279][670]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.28-15.55.36:356][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
