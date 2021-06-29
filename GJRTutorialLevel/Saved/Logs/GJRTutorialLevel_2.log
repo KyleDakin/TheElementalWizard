@@ -1823,3 +1823,534 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.29-10.29.14:998][764]LogFileHelpers: Saving map 'TutorialLevel' took 0.038
 [2021.06.29-10.29.15:016][764]AssetCheck: New page: Asset Save: TutorialLevel
 [2021.06.29-10.29.15:016][764]LogContentValidation: Display: Validating World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-10.29.49:113][972]LogActorFactory: Actor Factory created Sphere
+[2021.06.29-10.29.49:330][985]LogActorFactory: Actor Factory created Sphere
+[2021.06.29-10.29.50:157][ 34]Cmd: DELETE
+[2021.06.29-10.29.50:157][ 34]Cmd: ACTOR DELETE
+[2021.06.29-10.29.50:158][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-10.29.50:162][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.29-10.29.50:163][ 34]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2021.06.29-10.29.52:475][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.06.29-10.29.52:493][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.29-10.29.52:514][172]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevel22313045425881C70536C8843982DAD4.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap'
+[2021.06.29-10.29.52:519][172]LogFileHelpers: Saving map 'TutorialLevel' took 0.030
+[2021.06.29-10.29.52:528][172]AssetCheck: New page: Asset Save: TutorialLevel
+[2021.06.29-10.29.52:528][172]LogContentValidation: Display: Validating World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-10.30.01:288][482]LogRenderer: Reallocating scene render targets to support 924x436 Format 10 NumSamples 1 (Frame:116326).
+[2021.06.29-10.30.01:326][483]LogRenderer: Reallocating scene render targets to support 968x436 Format 10 NumSamples 1 (Frame:116328).
+[2021.06.29-10.30.01:375][484]LogRenderer: Reallocating scene render targets to support 1056x436 Format 10 NumSamples 1 (Frame:116330).
+[2021.06.29-10.30.01:421][485]LogRenderer: Reallocating scene render targets to support 1180x436 Format 10 NumSamples 1 (Frame:116332).
+[2021.06.29-10.30.01:453][486]LogRenderer: Reallocating scene render targets to support 1284x436 Format 10 NumSamples 1 (Frame:116334).
+[2021.06.29-10.30.01:481][487]LogRenderer: Reallocating scene render targets to support 1312x436 Format 10 NumSamples 1 (Frame:116336).
+[2021.06.29-10.30.03:557][605]LogRenderer: Reallocating scene render targets to support 1312x440 Format 10 NumSamples 1 (Frame:116475).
+[2021.06.29-10.30.03:588][606]LogRenderer: Reallocating scene render targets to support 1312x456 Format 10 NumSamples 1 (Frame:116477).
+[2021.06.29-10.30.03:612][607]LogRenderer: Reallocating scene render targets to support 1312x488 Format 10 NumSamples 1 (Frame:116479).
+[2021.06.29-10.30.03:638][608]LogRenderer: Reallocating scene render targets to support 1312x520 Format 10 NumSamples 1 (Frame:116481).
+[2021.06.29-10.30.03:664][609]LogRenderer: Reallocating scene render targets to support 1312x544 Format 10 NumSamples 1 (Frame:116483).
+[2021.06.29-10.30.03:688][610]LogRenderer: Reallocating scene render targets to support 1312x556 Format 10 NumSamples 1 (Frame:116485).
+[2021.06.29-10.30.03:710][611]LogRenderer: Reallocating scene render targets to support 1312x568 Format 10 NumSamples 1 (Frame:116487).
+[2021.06.29-10.30.03:734][612]LogRenderer: Reallocating scene render targets to support 1312x576 Format 10 NumSamples 1 (Frame:116489).
+[2021.06.29-10.30.03:753][613]LogRenderer: Reallocating scene render targets to support 1312x596 Format 10 NumSamples 1 (Frame:116491).
+[2021.06.29-10.30.03:773][614]LogRenderer: Reallocating scene render targets to support 1312x608 Format 10 NumSamples 1 (Frame:116493).
+[2021.06.29-10.30.03:797][615]LogRenderer: Reallocating scene render targets to support 1312x624 Format 10 NumSamples 1 (Frame:116495).
+[2021.06.29-10.30.03:817][616]LogRenderer: Reallocating scene render targets to support 1312x632 Format 10 NumSamples 1 (Frame:116497).
+[2021.06.29-10.30.03:836][617]LogRenderer: Reallocating scene render targets to support 1312x636 Format 10 NumSamples 1 (Frame:116499).
+[2021.06.29-10.30.03:889][620]LogRenderer: Reallocating scene render targets to support 1312x640 Format 10 NumSamples 1 (Frame:116505).
+[2021.06.29-10.30.03:924][622]LogRenderer: Reallocating scene render targets to support 1312x644 Format 10 NumSamples 1 (Frame:116509).
+[2021.06.29-10.30.03:965][624]LogRenderer: Reallocating scene render targets to support 1312x648 Format 10 NumSamples 1 (Frame:116513).
+[2021.06.29-10.39.37:408][759]LogContentBrowser: Deferred new asset file creation: TutorialLevel1
+[2021.06.29-10.39.37:413][759]LogContentBrowser: Creating deferred item: TutorialLevel1
+[2021.06.29-10.39.57:439][999]LogContentBrowser: Attempting asset rename: TutorialLevel1 -> TutorialLevel1
+[2021.06.29-10.40.28:595][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.29-10.40.28:810][999]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-10.40.28:810][999]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-10.40.28:948][999]LogContentBrowser: End creating deferred item TutorialLevel1
+[2021.06.29-10.40.39:070][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.29-10.40.39:070][ 30]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cianan/TutorialLevel' took 0.005
+[2021.06.29-10.50.39:516][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.06.29-10.50.39:517][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cianan/TutorialLevel' took 0.005
+[2021.06.29-11.00.40:090][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.06.29-11.00.40:091][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cianan/TutorialLevel' took 0.004
+[2021.06.29-11.10.40:799][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.06.29-11.10.40:800][400]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cianan/TutorialLevel' took 0.005
+[2021.06.29-11.20.41:263][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.29-11.20.41:264][190]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cianan/TutorialLevel' took 0.004
+[2021.06.29-11.24.03:886][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.29-11.24.03:906][943]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevelFF0DB5174EF3672182DCE7881A7560BC.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap'
+[2021.06.29-11.24.03:922][943]AssetCheck: New page: Asset Save: TutorialLevel
+[2021.06.29-11.24.03:922][943]LogContentValidation: Display: Validating World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.24.05:611][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2021.06.29-11.24.26:585][249]LogContentBrowser: Attempting asset rename: TutorialLevel1 -> TutorialLevelWhitebox
+[2021.06.29-11.24.27:981][249]LogMetaData: Removing '/Game/Cianan/TutorialLevelWhitebox.SKEL_TutorialLevelWhitebox_C' ref from Metadata '/Game/Cianan/TutorialLevel1.PackageMetaData'
+[2021.06.29-11.24.27:981][249]LogMetaData: Removing '/Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox_C' ref from Metadata '/Game/Cianan/TutorialLevel1.PackageMetaData'
+[2021.06.29-11.24.28:071][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.06.29-11.24.28:097][249]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevelWhiteboxED7301174D654EB9E7ECDE9E272F9578.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevelWhitebox.umap'
+[2021.06.29-11.24.28:101][249]LogFileHelpers: Saving map 'TutorialLevelWhitebox' took 0.040
+[2021.06.29-11.24.28:253][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.06.29-11.24.28:268][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.29-11.24.28:272][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.06.29-11.24.28:572][249]AssetCheck: New page: Asset Save: TutorialLevelWhitebox
+[2021.06.29-11.24.28:572][249]LogContentValidation: Display: Validating World /Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox
+[2021.06.29-11.24.31:983][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.06.29-11.24.31:999][454]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.24.32:000][454]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.24.32:000][454]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.32:000][454]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.29-11.24.32:082][454]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.24.32:160][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.24.32:161][454]MapCheck: New page: Map Check
+[2021.06.29-11.24.32:161][454]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.32:164][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.24.32:169][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.29-11.24.32:315][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.29-11.24.32:320][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.06.29-11.24.32:327][454]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.24.32:327][454]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.24.32:327][454]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.29-11.24.32:329][454]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.29-11.24.32:378][454]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.24.32:384][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.29-11.24.32:387][454]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.24.32:387][454]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2021.06.29-11.24.32:387][454]LogFileHelpers: Loading map 'TutorialLevel' took 0.388
+[2021.06.29-11.24.33:412][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.29-11.24.33:428][512]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.24.33:428][512]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.24.33:432][512]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox
+[2021.06.29-11.24.33:432][512]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevelWhitebox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.24.33:432][512]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.33:432][512]LoadErrors: New page: Loading map: TutorialLevelWhitebox.umap
+[2021.06.29-11.24.33:433][512]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.24.33:433][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.24.33:433][512]MapCheck: New page: Map Check
+[2021.06.29-11.24.33:433][512]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.33:437][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.24.33:439][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.06.29-11.24.33:439][512]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelWhitebox'.
+[2021.06.29-11.24.33:484][512]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.24.33:484][512]LogAIModule: Creating AISystem for world TutorialLevelWhitebox
+[2021.06.29-11.24.33:490][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.29-11.24.33:494][512]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.24.33:494][512]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2021.06.29-11.24.33:494][512]LogFileHelpers: Loading map 'TutorialLevelWhitebox' took 0.063
+[2021.06.29-11.24.55:179][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.06.29-11.24.55:197][837]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.24.55:197][837]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.24.55:200][837]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.24.55:200][837]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.24.55:200][837]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.55:200][837]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.29-11.24.55:201][837]LogWorld: UWorld::CleanupWorld for TutorialLevelWhitebox, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.24.55:201][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.24.55:202][837]MapCheck: New page: Map Check
+[2021.06.29-11.24.55:202][837]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.55:206][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.24.55:208][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.06.29-11.24.55:208][837]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.29-11.24.55:253][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.24.55:253][837]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.29-11.24.55:259][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.29-11.24.55:261][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.24.55:262][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2021.06.29-11.24.55:262][837]LogFileHelpers: Loading map 'TutorialLevel' took 0.062
+[2021.06.29-11.24.55:992][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.06.29-11.24.56:011][879]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.24.56:011][879]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.24.56:014][879]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox
+[2021.06.29-11.24.56:014][879]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevelWhitebox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.24.56:014][879]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.56:014][879]LoadErrors: New page: Loading map: TutorialLevelWhitebox.umap
+[2021.06.29-11.24.56:015][879]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.24.56:015][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.24.56:015][879]MapCheck: New page: Map Check
+[2021.06.29-11.24.56:015][879]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.56:019][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.24.56:021][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.29-11.24.56:021][879]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelWhitebox'.
+[2021.06.29-11.24.56:068][879]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.24.56:068][879]LogAIModule: Creating AISystem for world TutorialLevelWhitebox
+[2021.06.29-11.24.56:075][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.06.29-11.24.56:078][879]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.24.56:078][879]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2021.06.29-11.24.56:078][879]LogFileHelpers: Loading map 'TutorialLevelWhitebox' took 0.064
+[2021.06.29-11.24.56:823][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.06.29-11.24.56:845][921]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.24.56:845][921]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.24.56:848][921]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.24.56:848][921]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.24.56:848][921]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.56:848][921]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.29-11.24.56:849][921]LogWorld: UWorld::CleanupWorld for TutorialLevelWhitebox, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.24.56:849][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.24.56:849][921]MapCheck: New page: Map Check
+[2021.06.29-11.24.56:849][921]LightingResults: New page: Lighting Build
+[2021.06.29-11.24.56:853][921]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.24.56:855][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.29-11.24.56:855][921]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.29-11.24.56:898][921]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.24.56:898][921]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.29-11.24.56:905][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.06.29-11.24.56:908][921]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.24.56:908][921]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2021.06.29-11.24.56:908][921]LogFileHelpers: Loading map 'TutorialLevel' took 0.061
+[2021.06.29-11.25.07:483][506]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kyle/IceProjectile.IceProjectile
+[2021.06.29-11.25.08:920][506]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 126 classes and 0 folders.
+[2021.06.29-11.25.25:877][506]LogSlate: Took 0.160832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.29-11.25.30:612][507]LogSlate: Took 0.164955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.29-11.26.09:972][348]LogSlate: Window 'IceProjectile' being destroyed
+[2021.06.29-11.26.09:979][348]LogSlate: Window 'IceProjectile' being destroyed
+[2021.06.29-11.26.10:050][348]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.26.10:050][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.26.21:148][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.06.29-11.26.21:259][935]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.06.29-11.26.21:259][935]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.26.21:259][935]LightingResults: New page: Lighting Build
+[2021.06.29-11.26.21:259][935]LoadErrors: New page: Loading map: MainAreaLevel.umap
+[2021.06.29-11.26.21:289][935]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.26.21:289][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.26.21:289][935]MapCheck: New page: Map Check
+[2021.06.29-11.26.21:289][935]LightingResults: New page: Lighting Build
+[2021.06.29-11.26.21:303][935]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.26.21:307][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.06.29-11.26.21:307][935]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainAreaLevel'.
+[2021.06.29-11.26.21:457][935]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.26.21:458][935]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.06.29-11.26.21:475][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.06.29-11.26.21:478][935]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.26.21:479][935]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.221ms to complete.
+[2021.06.29-11.26.21:479][935]LogFileHelpers: Loading map 'MainAreaLevel' took 0.219
+[2021.06.29-11.26.31:019][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2021.06.29-11.26.43:935][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.06.29-11.26.43:959][234]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.26.43:959][234]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.26.43:962][234]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.26.43:962][234]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.26.43:962][234]LightingResults: New page: Lighting Build
+[2021.06.29-11.26.43:963][234]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.29-11.26.43:965][234]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.26.43:965][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.26.43:965][234]MapCheck: New page: Map Check
+[2021.06.29-11.26.43:965][234]LightingResults: New page: Lighting Build
+[2021.06.29-11.26.43:977][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.26.43:988][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.06.29-11.26.43:989][234]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.29-11.26.44:045][234]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.26.44:045][234]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.29-11.26.44:061][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.06.29-11.26.44:064][234]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.26.44:064][234]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2021.06.29-11.26.44:064][234]LogFileHelpers: Loading map 'TutorialLevel' took 0.101
+[2021.06.29-11.26.44:755][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.06.29-11.26.44:773][273]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.26.44:773][273]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.26.44:777][273]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevelWhitebox.TutorialLevelWhitebox
+[2021.06.29-11.26.44:777][273]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevelWhitebox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.26.44:778][273]LightingResults: New page: Lighting Build
+[2021.06.29-11.26.44:778][273]LoadErrors: New page: Loading map: TutorialLevelWhitebox.umap
+[2021.06.29-11.26.44:779][273]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.26.44:779][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.26.44:779][273]MapCheck: New page: Map Check
+[2021.06.29-11.26.44:779][273]LightingResults: New page: Lighting Build
+[2021.06.29-11.26.44:795][273]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.26.44:799][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.06.29-11.26.44:799][273]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelWhitebox'.
+[2021.06.29-11.26.44:871][273]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.26.44:871][273]LogAIModule: Creating AISystem for world TutorialLevelWhitebox
+[2021.06.29-11.26.44:888][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.06.29-11.26.44:891][273]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.26.44:891][273]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2021.06.29-11.26.44:891][273]LogFileHelpers: Loading map 'TutorialLevelWhitebox' took 0.114
+[2021.06.29-11.26.45:590][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.06.29-11.26.45:613][312]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.26.45:613][312]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.26.45:616][312]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.26.45:616][312]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.26.45:616][312]LightingResults: New page: Lighting Build
+[2021.06.29-11.26.45:616][312]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.29-11.26.45:617][312]LogWorld: UWorld::CleanupWorld for TutorialLevelWhitebox, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.26.45:617][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.26.45:617][312]MapCheck: New page: Map Check
+[2021.06.29-11.26.45:617][312]LightingResults: New page: Lighting Build
+[2021.06.29-11.26.45:630][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.26.45:632][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.06.29-11.26.45:632][312]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.29-11.26.45:685][312]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.26.45:685][312]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.29-11.26.45:701][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.06.29-11.26.45:703][312]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.26.45:703][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2021.06.29-11.26.45:703][312]LogFileHelpers: Loading map 'TutorialLevel' took 0.088
+[2021.06.29-11.27.33:994][829]LogActorFactory: Actor Factory created TotemTestFBX
+[2021.06.29-11.27.34:712][872]LogActorFactory: Actor Factory created TotemTestFBX
+[2021.06.29-11.27.38:185][ 79]Cmd: TRANSACTION UNDO
+[2021.06.29-11.27.38:185][ 79]LogEditorTransaction: Undo Move Actors
+[2021.06.29-11.27.40:111][190]Cmd: TRANSACTION UNDO
+[2021.06.29-11.27.40:111][190]LogEditorTransaction: Undo Move Actors
+[2021.06.29-11.27.46:879][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.06.29-11.27.47:601][638]Cmd: DELETE
+[2021.06.29-11.27.47:601][638]Cmd: ACTOR DELETE
+[2021.06.29-11.27.47:603][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-11.27.47:616][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.06.29-11.27.47:620][638]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.06.29-11.27.49:698][763]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.29-11.27.49:704][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.29-11.27.49:704][763]PIE: New page: PIE session: TutorialLevel (29 Jun 2021, 13:27:49)
+[2021.06.29-11.27.49:704][763]LogPlayLevel: Creating play world package: /Game/Cianan/UEDPIE_0_TutorialLevel
+[2021.06.29-11.27.49:709][763]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/UEDPIE_0_TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.27.49:709][763]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/UEDPIE_0_TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.27.49:709][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004669s)
+[2021.06.29-11.27.49:711][763]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.29-11.27.49:711][763]LogPlayLevel: PIE: World Init took: (0.001848s)
+[2021.06.29-11.27.49:711][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cianan/TutorialLevel.TutorialLevel to /Game/Cianan/UEDPIE_0_TutorialLevel.TutorialLevel (0.006651s)
+[2021.06.29-11.27.49:725][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.06.29-11.27.49:725][763]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.29-11.27.49:726][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.27.49:726][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.27.49:726][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.27.49:726][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.27.49:726][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.27.49:726][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.27.49:726][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.27.49:726][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.27.49:726][763]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.27.49:726][763]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.27.49:782][763]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.27.49:782][763]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.27.49:928][763]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.29-11.27.49:928][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.27.49:928][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.27.49:928][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.27.49:929][763]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.27.49:929][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.27.49:929][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.27.49:940][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.27.49:940][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.27.49:940][763]LogInit: FAudioDevice initialized.
+[2021.06.29-11.27.49:940][763]LogAudio: Display: Audio Device (ID: 4) registered with world 'TutorialLevel'.
+[2021.06.29-11.27.49:958][763]LogLoad: Game class is 'GameModeBase'
+[2021.06.29-11.27.49:960][763]LogWorld: Bringing World /Game/Cianan/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 60) at 2021.06.29-12.27.49
+[2021.06.29-11.27.49:960][763]LogWorld: Bringing up level for play took: 0.001467
+[2021.06.29-11.27.49:960][763]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.06.29-11.27.49:962][763]PIE: Server logged in
+[2021.06.29-11.27.49:963][763]PIE: Play in editor total start time 0.262 seconds.
+[2021.06.29-11.27.51:331][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.27.51:331][842]LogWorld: BeginTearingDown for /Game/Cianan/UEDPIE_0_TutorialLevel
+[2021.06.29-11.27.51:331][842]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.27.51:331][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.27.51:341][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.29-11.27.51:345][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.27.51:357][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.27.51:358][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.27.51:359][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.27.51:379][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.06.29-11.27.51:425][844]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.06.29-11.27.54:892][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.29-11.27.54:897][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.29-11.27.54:898][ 52]PIE: New page: PIE session: TutorialLevel (29 Jun 2021, 13:27:54)
+[2021.06.29-11.27.54:928][ 52]LogPlayLevel: Creating play world package: /Game/Cianan/UEDPIE_0_TutorialLevel
+[2021.06.29-11.27.54:933][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/UEDPIE_0_TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.27.54:933][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/UEDPIE_0_TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.27.54:933][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004441s)
+[2021.06.29-11.27.54:934][ 52]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.29-11.27.54:934][ 52]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2021.06.29-11.27.54:934][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cianan/TutorialLevel.TutorialLevel to /Game/Cianan/UEDPIE_0_TutorialLevel.TutorialLevel (0.006040s)
+[2021.06.29-11.27.54:947][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.06.29-11.27.54:948][ 52]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.06.29-11.27.54:948][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.27.54:948][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.27.54:948][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.27.54:948][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.27.54:948][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.27.54:948][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.27.54:948][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.27.54:948][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.27.54:949][ 52]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.27.54:949][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.27.54:951][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.27.54:951][ 52]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.27.55:114][ 52]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.29-11.27.55:114][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.27.55:114][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.27.55:114][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.27.55:114][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.27.55:114][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.27.55:114][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.27.55:123][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.27.55:123][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.27.55:123][ 52]LogInit: FAudioDevice initialized.
+[2021.06.29-11.27.55:123][ 52]LogAudio: Display: Audio Device (ID: 5) registered with world 'TutorialLevel'.
+[2021.06.29-11.27.55:138][ 52]LogLoad: Game class is 'GameModeBase'
+[2021.06.29-11.27.55:141][ 52]LogWorld: Bringing World /Game/Cianan/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 60) at 2021.06.29-12.27.55
+[2021.06.29-11.27.55:141][ 52]LogWorld: Bringing up level for play took: 0.002896
+[2021.06.29-11.27.55:142][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.06.29-11.27.55:145][ 52]PIE: Server logged in
+[2021.06.29-11.27.55:146][ 52]PIE: Play in editor total start time 0.25 seconds.
+[2021.06.29-11.27.56:682][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.27.56:682][140]LogWorld: BeginTearingDown for /Game/Cianan/UEDPIE_0_TutorialLevel
+[2021.06.29-11.27.56:682][140]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.27.56:682][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.27.56:689][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.29-11.27.56:691][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.27.56:704][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.27.56:704][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.27.56:705][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.27.56:723][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.06.29-11.27.56:765][142]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.06.29-11.28.04:100][574]LogActorFactory: Actor Factory created Rock1
+[2021.06.29-11.28.04:834][618]LogActorFactory: Actor Factory created Rock1
+[2021.06.29-11.28.05:982][686]LogActorFactory: Actor Factory created Rock2
+[2021.06.29-11.28.06:520][718]LogActorFactory: Actor Factory created Rock2
+[2021.06.29-11.28.07:535][778]LogActorFactory: Actor Factory created Rock3
+[2021.06.29-11.28.08:041][808]LogActorFactory: Actor Factory created Rock3
+[2021.06.29-11.28.08:905][858]LogActorFactory: Actor Factory created Rock4
+[2021.06.29-11.28.09:391][887]LogActorFactory: Actor Factory created Rock4
+[2021.06.29-11.28.10:454][950]LogActorFactory: Actor Factory created Rock5
+[2021.06.29-11.28.11:290][  0]LogActorFactory: Actor Factory created Rock5
+[2021.06.29-11.28.14:676][202]LogActorFactory: Actor Factory created Bush1
+[2021.06.29-11.28.15:399][244]LogActorFactory: Actor Factory created Bush1
+[2021.06.29-11.28.18:127][406]LogActorFactory: Actor Factory created Bush2
+[2021.06.29-11.28.19:009][459]LogActorFactory: Actor Factory created Bush2
+[2021.06.29-11.28.23:373][719]LogActorFactory: Actor Factory created Bush3
+[2021.06.29-11.28.23:809][745]LogActorFactory: Actor Factory created Bush3
+[2021.06.29-11.28.29:478][ 83]LogActorFactory: Actor Factory created Bush4
+[2021.06.29-11.28.30:232][128]LogActorFactory: Actor Factory created Bush4
+[2021.06.29-11.28.31:453][198]LogActorFactory: Actor Factory created Bush5
+[2021.06.29-11.28.32:262][246]LogActorFactory: Actor Factory created Bush5
+[2021.06.29-11.28.35:429][435]LogActorFactory: Actor Factory created Bush2
+[2021.06.29-11.28.36:815][518]LogActorFactory: Actor Factory created Bush2
+[2021.06.29-11.28.39:545][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush5)
+[2021.06.29-11.28.43:314][906]LogActorFactory: Actor Factory created Bush3
+[2021.06.29-11.28.44:424][972]LogActorFactory: Actor Factory created Bush3
+[2021.06.29-11.28.45:264][ 22]LogActorFactory: Actor Factory created Bush3
+[2021.06.29-11.28.46:167][ 75]LogActorFactory: Actor Factory created Bush1
+[2021.06.29-11.28.48:838][235]LogActorFactory: Actor Factory created Bush1
+[2021.06.29-11.28.53:466][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush7)
+[2021.06.29-11.28.58:706][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush5)
+[2021.06.29-11.29.03:328][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush4)
+[2021.06.29-11.29.15:875][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder7)
+[2021.06.29-11.29.31:521][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder8)
+[2021.06.29-11.29.37:812][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere3)
+[2021.06.29-11.29.46:441][322]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sphere3)
+[2021.06.29-11.29.53:491][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.06.29-11.30.00:518][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder11)
+[2021.06.29-11.30.05:142][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere4)
+[2021.06.29-11.30.14:228][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.29-11.30.16:632][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.29-11.30.17:214][121]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.29-11.30.19:244][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.29-11.30.27:754][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.29-11.30.34:171][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.29-11.30.35:871][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.29-11.30.44:372][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2021.06.29-11.30.47:180][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere3)
+[2021.06.29-11.30.54:991][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.06.29-11.30.58:597][ 97]LogSlate: Window 'Save Content' being destroyed
+[2021.06.29-11.30.58:637][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.06.29-11.30.58:661][ 97]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevel8B5D08364A0830C20F8EF9A6118A496E.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap'
+[2021.06.29-11.30.58:666][ 97]LogFileHelpers: Saving map 'TutorialLevel' took 0.044
+[2021.06.29-11.30.58:778][ 97]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.06.29-11.30.58:778][ 97]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.30.58:778][ 97]LightingResults: New page: Lighting Build
+[2021.06.29-11.30.58:778][ 97]LoadErrors: New page: Loading map: MainAreaLevel.umap
+[2021.06.29-11.30.58:780][ 97]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.30.58:780][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.30.58:780][ 97]MapCheck: New page: Map Check
+[2021.06.29-11.30.58:780][ 97]LightingResults: New page: Lighting Build
+[2021.06.29-11.30.58:795][ 97]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.30.58:823][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.06.29-11.30.58:824][ 97]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainAreaLevel'.
+[2021.06.29-11.30.58:934][ 97]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.30.58:934][ 97]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.06.29-11.30.58:954][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.06.29-11.30.58:958][ 97]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.30.58:958][ 97]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2021.06.29-11.30.58:958][ 97]LogFileHelpers: Loading map 'MainAreaLevel' took 0.180
+[2021.06.29-11.30.58:976][ 97]AssetCheck: New page: Asset Save: TutorialLevel
+[2021.06.29-11.30.58:976][ 97]LogContentValidation: Display: Validating World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.30.58:985][ 97]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.30.58:985][ 97]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.31.01:469][232]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.06.29-11.31.04:697][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere17)
+[2021.06.29-11.31.09:604][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.06.29-11.31.09:622][702]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.31.09:622][702]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.31.09:622][702]LightingResults: New page: Lighting Build
+[2021.06.29-11.31.09:622][702]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.29-11.31.09:625][702]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.31.09:625][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.31.09:626][702]MapCheck: New page: Map Check
+[2021.06.29-11.31.09:626][702]LightingResults: New page: Lighting Build
+[2021.06.29-11.31.09:641][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.31.09:651][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.06.29-11.31.09:651][702]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.29-11.31.09:713][702]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.31.09:713][702]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.29-11.31.09:729][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.06.29-11.31.09:732][702]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.31.09:732][702]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2021.06.29-11.31.09:732][702]LogFileHelpers: Loading map 'TutorialLevel' took 0.110
+[2021.06.29-11.31.11:378][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.29-11.31.12:259][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2021.06.29-11.31.19:268][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere3)
+[2021.06.29-11.31.26:156][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.06.29-11.31.34:707][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere4)
+[2021.06.29-11.31.57:092][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.06.29-11.31.58:391][226]LogSlate: Window 'Save Content' being destroyed
+[2021.06.29-11.31.58:431][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.29-11.31.58:455][226]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevelA8B9018D467FEB76EFD81B9DF86B4637.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap'
+[2021.06.29-11.31.58:459][226]LogFileHelpers: Saving map 'TutorialLevel' took 0.047
+[2021.06.29-11.31.58:576][226]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.06.29-11.31.58:576][226]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.31.58:576][226]LightingResults: New page: Lighting Build
+[2021.06.29-11.31.58:576][226]LoadErrors: New page: Loading map: MainAreaLevel.umap
+[2021.06.29-11.31.58:577][226]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.31.58:577][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.31.58:577][226]MapCheck: New page: Map Check
+[2021.06.29-11.31.58:577][226]LightingResults: New page: Lighting Build
+[2021.06.29-11.31.58:592][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.31.58:613][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.06.29-11.31.58:613][226]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainAreaLevel'.
+[2021.06.29-11.31.58:718][226]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.31.58:718][226]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.06.29-11.31.58:738][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.06.29-11.31.58:741][226]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.31.58:741][226]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2021.06.29-11.31.58:741][226]LogFileHelpers: Loading map 'MainAreaLevel' took 0.165
+[2021.06.29-11.31.58:753][226]AssetCheck: New page: Asset Save: TutorialLevel
+[2021.06.29-11.31.58:753][226]LogContentValidation: Display: Validating World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.31.58:760][226]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.29-11.31.58:760][226]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.29-11.32.00:676][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder16)
+[2021.06.29-11.32.38:861][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.06.29-11.32.38:875][622]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.32.38:875][622]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.32.38:875][622]LightingResults: New page: Lighting Build
+[2021.06.29-11.32.38:876][622]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.29-11.32.38:879][622]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.32.38:879][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.32.38:879][622]MapCheck: New page: Map Check
+[2021.06.29-11.32.38:879][622]LightingResults: New page: Lighting Build
+[2021.06.29-11.32.38:893][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.32.38:902][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.06.29-11.32.38:903][622]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.29-11.32.38:958][622]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.32.38:958][622]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.29-11.32.38:974][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.06.29-11.32.38:978][622]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.32.38:978][622]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2021.06.29-11.32.38:978][622]LogFileHelpers: Loading map 'TutorialLevel' took 0.102
+[2021.06.29-11.33.03:381][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.06.29-11.33.06:188][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder11)
+[2021.06.29-11.33.06:604][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere4)
+[2021.06.29-11.33.12:892][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.29-11.33.16:289][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.29-11.33.16:796][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.29-11.33.22:879][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.29-11.33.29:545][506]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.29-11.33.34:593][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.06.29-11.33.34:624][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.06.29-11.33.34:644][807]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevelE7FAC281437B1278CB17DCB4A2BF81BC.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap'
+[2021.06.29-11.33.34:648][807]LogFileHelpers: Saving map 'TutorialLevel' took 0.038
+[2021.06.29-11.33.34:661][807]AssetCheck: New page: Asset Save: TutorialLevel
+[2021.06.29-11.33.34:661][807]LogContentValidation: Display: Validating World /Game/Cianan/TutorialLevel.TutorialLevel
+[2021.06.29-11.38.20:722][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
