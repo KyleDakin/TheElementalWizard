@@ -644,3 +644,207 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-08.43.07:307][  0]NetworkingProfiler: OnSessionChanged
 [2021.06.30-08.43.07:307][  0]MemoryProfiler: Initialize
 [2021.06.30-08.43.07:307][  0]MemoryProfiler: OnSessionChanged
+[2021.06.30-08.43.11:477][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/' took 0.00s
+[2021.06.30-08.43.11:478][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.30-08.43.11:478][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.30-08.43.16:338][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.30-08.43.16:465][  0]SourceControl: Source control is disabled
+[2021.06.30-08.43.16:478][  0]LogUnrealEdMisc: Loading editor; pre map load, took 125.866
+[2021.06.30-08.43.16:513][  0]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-08.43.16:523][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/TutorialLevel.umap'
+[2021.06.30-08.43.16:534][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-08.43.16:535][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2021.06.30-08.43.16:535][  0]LogFileHelpers: Loading map 'TutorialLevel' took 0.035
+[2021.06.30-08.43.17:658][  0]LogUnrealEdMisc: Total Editor Startup Time, took 127.046
+[2021.06.30-08.43.18:373][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-08.43.18:406][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-08.43.18:412][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-08.43.18:420][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-08.43.18:870][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.30-08.43.18:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-08.43.18:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.06.30-08.43.18:886][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.30-08.43.18:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.30-08.43.18:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.30-08.43.18:900][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.30-08.43.18:900][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:900][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.30-08.43.18:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.06.30-08.43.18:917][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-08.43.18:917][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:917][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-08.43.18:917][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.06.30-08.43.18:925][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.30-08.43.18:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.30-08.43.18:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.06.30-08.43.18:938][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.30-08.43.18:938][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:938][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.30-08.43.18:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.06.30-08.43.18:949][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.30-08.43.18:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.30-08.43.18:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.06.30-08.43.18:961][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.30-08.43.18:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.30-08.43.18:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.06.30-08.43.18:973][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.30-08.43.18:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.30-08.43.18:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.06.30-08.43.18:977][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.30-08.43.18:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.30-08.43.18:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.06.30-08.43.18:995][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.30-08.43.18:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.18:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.30-08.43.18:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.06.30-08.43.19:008][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.30-08.43.19:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.30-08.43.19:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.06.30-08.43.19:012][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-08.43.19:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-08.43.19:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.06.30-08.43.19:015][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.30-08.43.19:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.30-08.43.19:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.06.30-08.43.19:017][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.30-08.43.19:017][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:017][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.30-08.43.19:017][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.06.30-08.43.19:019][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.30-08.43.19:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-08.43.19:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.06.30-08.43.19:023][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.30-08.43.19:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.30-08.43.19:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.06.30-08.43.19:027][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.30-08.43.19:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.30-08.43.19:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.06.30-08.43.19:028][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-08.43.19:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-08.43.19:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.06.30-08.43.19:043][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-08.43.19:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-08.43.19:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.06.30-08.43.19:057][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.30-08.43.19:057][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:057][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-08.43.19:057][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.06.30-08.43.19:070][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.30-08.43.19:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.30-08.43.19:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.06.30-08.43.19:087][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.30-08.43.19:087][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:087][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.30-08.43.19:087][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.06.30-08.43.19:098][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.30-08.43.19:098][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:098][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.30-08.43.19:098][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.06.30-08.43.19:109][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-08.43.19:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-08.43.19:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.06.30-08.43.19:112][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.30-08.43.19:112][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-08.43.19:112][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.30-08.43.19:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2021.06.30-08.43.22:257][  0]LogSlate: Took 0.038475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.30-08.43.22:349][  0]LogSlate: Took 0.029370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.30-08.43.22:363][  0]LogSlate: Took 0.012152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.30-08.43.22:673][  0]LogRenderer: Reallocating scene render targets to support 1460x348 Format 10 NumSamples 1 (Frame:1).
+[2021.06.30-08.43.23:310][  0]LogLoad: (Engine Initialization) Total time: 132.70 seconds
+[2021.06.30-08.43.23:310][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.30-08.43.23:311][  0]LogInit: First time updating LLM stats...
+[2021.06.30-08.43.23:461][  0]LogAssetRegistry: Asset discovery search completed in 54.4861 seconds
+[2021.06.30-08.43.23:477][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.06.30-08.43.23:665][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.30-08.43.23:973][  2]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0072 seconds. Added 3601 classes and 859 folders.
+[2021.06.30-08.43.24:268][  2]LogSlate: Took 0.015289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.30-08.48.23:687][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.30-08.48.23:836][688]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.30-08.48.25:058][688]LogStaticMesh: Building static mesh Bush6...
+[2021.06.30-08.48.25:148][688]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/Assets_With_Texture/Bush6.Bush6
+[2021.06.30-08.48.25:177][688]LogStaticMesh: Building static mesh Bush1...
+[2021.06.30-08.48.25:178][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/Bush1.Bush1
+[2021.06.30-08.48.25:211][688]LogStaticMesh: Building static mesh Fence4...
+[2021.06.30-08.48.25:214][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/Fence4.Fence4
+[2021.06.30-08.48.25:216][688]LogStaticMesh: Building static mesh Fence3...
+[2021.06.30-08.48.25:218][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/Fence3.Fence3
+[2021.06.30-08.48.25:220][688]LogStaticMesh: Building static mesh Fence1...
+[2021.06.30-08.48.25:223][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/Fence1.Fence1
+[2021.06.30-08.48.25:224][688]LogStaticMesh: Building static mesh Cage...
+[2021.06.30-08.48.25:235][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/Cage.Cage
+[2021.06.30-08.48.25:333][688]LogStaticMesh: Building static mesh Vne3...
+[2021.06.30-08.48.25:358][688]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Assets_With_Texture/Vne3.Vne3
+[2021.06.30-08.48.25:360][688]LogStaticMesh: Building static mesh Vine2...
+[2021.06.30-08.48.25:378][688]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Assets_With_Texture/Vine2.Vine2
+[2021.06.30-08.48.25:380][688]LogStaticMesh: Building static mesh Vine1...
+[2021.06.30-08.48.25:394][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/Vine1.Vine1
+[2021.06.30-08.48.25:397][688]LogStaticMesh: Building static mesh Tree5...
+[2021.06.30-08.48.25:399][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/Tree5.Tree5
+[2021.06.30-08.48.25:400][688]LogStaticMesh: Building static mesh Tree4...
+[2021.06.30-08.48.25:405][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/Tree4.Tree4
+[2021.06.30-08.48.25:406][688]LogStaticMesh: Building static mesh Tree3...
+[2021.06.30-08.48.25:410][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/Tree3.Tree3
+[2021.06.30-08.48.25:411][688]LogStaticMesh: Building static mesh Tree1...
+[2021.06.30-08.48.25:417][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/Tree1.Tree1
+[2021.06.30-08.48.25:418][688]LogStaticMesh: Building static mesh TotemFire...
+[2021.06.30-08.48.25:435][688]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Assets_With_Texture/TotemFire.TotemFire
+[2021.06.30-08.48.25:442][688]LogStaticMesh: Building static mesh OuterWall4...
+[2021.06.30-08.48.25:444][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/OuterWall4.OuterWall4
+[2021.06.30-08.48.25:445][688]LogStaticMesh: Building static mesh OuterWall3...
+[2021.06.30-08.48.25:448][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/OuterWall3.OuterWall3
+[2021.06.30-08.48.25:450][688]LogStaticMesh: Building static mesh OuterWall2...
+[2021.06.30-08.48.25:452][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/OuterWall2.OuterWall2
+[2021.06.30-08.48.25:453][688]LogStaticMesh: Building static mesh OuterWall1...
+[2021.06.30-08.48.25:457][688]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Assets_With_Texture/OuterWall1.OuterWall1
+[2021.06.30-08.48.25:459][688]LogStaticMesh: Building static mesh NormalPlatform...
+[2021.06.30-08.48.25:468][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/NormalPlatform.NormalPlatform
+[2021.06.30-08.48.25:470][688]LogStaticMesh: Building static mesh GrassFlower...
+[2021.06.30-08.48.25:479][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/GrassFlower.GrassFlower
+[2021.06.30-08.48.25:480][688]LogStaticMesh: Building static mesh Barrel...
+[2021.06.30-08.48.25:497][688]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Assets_With_Texture/Barrel.Barrel
+[2021.06.30-08.48.25:508][688]LogStaticMesh: Building static mesh Grass4...
+[2021.06.30-08.48.25:521][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/Grass4.Grass4
+[2021.06.30-08.48.25:523][688]LogStaticMesh: Building static mesh Grass3...
+[2021.06.30-08.48.25:532][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/Grass3.Grass3
+[2021.06.30-08.48.25:533][688]LogStaticMesh: Building static mesh Grass2...
+[2021.06.30-08.48.25:541][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/Grass2.Grass2
+[2021.06.30-08.48.25:543][688]LogStaticMesh: Building static mesh Grass1...
+[2021.06.30-08.48.25:550][688]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Assets_With_Texture/Grass1.Grass1
+[2021.06.30-08.48.25:582][688]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/Levels/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-08.48.25:582][688]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/Levels/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-08.48.26:259][688]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/Levels/TutorialLevel.TutorialLevel
+[2021.06.30-08.48.26:303][688]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/Levels/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-08.48.26:316][688]LightingResults: New page: Lighting Build
+[2021.06.30-08.48.26:339][688]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0007 seconds. Added 6 classes and 0 folders.
+[2021.06.30-08.48.26:340][688]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.30-08.48.26:380][688]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-08.48.26:399][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-08.48.26:427][688]MapCheck: New page: Map Check
+[2021.06.30-08.48.26:427][688]LightingResults: New page: Lighting Build
+[2021.06.30-08.48.26:507][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.30-08.48.26:508][688]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.30-08.48.26:846][688]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-08.48.26:846][688]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.30-08.48.26:872][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.30-08.48.26:876][688]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-08.48.26:876][688]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2021.06.30-08.48.26:876][688]LogFileHelpers: Loading map 'TutorialLevel' took 0.573
+[2021.06.30-08.48.30:492][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
