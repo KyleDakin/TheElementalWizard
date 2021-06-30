@@ -1768,3 +1768,254 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-16.43.59:327][264]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/MainAreaLevelFDB790C446EE72D4D0A2598A80FB66BD.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap'
 [2021.06.30-16.43.59:343][264]AssetCheck: New page: Asset Save: MainAreaLevel
 [2021.06.30-16.43.59:343][264]LogContentValidation: Display: Validating World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.06.30-17.13.27:916][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.30-17.13.28:833][100]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-17.13.28:871][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.30-17.13.28:881][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.30-17.13.28:884][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.06.30-17.13.35:014][630]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Elliott\Desktop\Jam\Cabin3.fbx)
+[2021.06.30-17.13.35:023][630]LogFbx: Loading FBX Scene from C:\Users\Elliott\Desktop\Jam\Cabin3.fbx
+[2021.06.30-17.13.35:033][630]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.30-17.13.35:967][630]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.06.30-17.13.35:985][630]LogTexture: Display: Building textures: Colour_Palette (AutoDXT, 512X512)
+[2021.06.30-17.13.36:020][630]LogStaticMesh: Building static mesh Cabin3...
+[2021.06.30-17.13.36:140][630]LogStaticMesh: Built static mesh [0.12s] /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin3.Cabin3
+[2021.06.30-17.13.36:150][630]LogStaticMesh: Warning: Cabin3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.06.30-17.13.36:151][630]LogStaticMesh: Warning: Cabin3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.06.30-17.13.36:164][630]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.30-17.13.36:165][630]FBXImport: Warning: Cabin3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.06.30-17.13.36:165][630]FBXImport: Warning: Cabin3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.06.30-17.13.36:213][630]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Elliott\Desktop\Jam\Cabin2.fbx)
+[2021.06.30-17.13.36:230][630]LogFbx: Loading FBX Scene from C:\Users\Elliott\Desktop\Jam\Cabin2.fbx
+[2021.06.30-17.13.36:240][630]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.30-17.13.36:258][630]LogTexture: Display: Building textures: Colour_Palette (AutoDXT, 512X512)
+[2021.06.30-17.13.36:290][630]LogStaticMesh: Building static mesh Cabin2...
+[2021.06.30-17.13.36:406][630]LogStaticMesh: Built static mesh [0.12s] /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin2.Cabin2
+[2021.06.30-17.13.36:416][630]LogStaticMesh: Warning: Cabin2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.06.30-17.13.36:416][630]LogStaticMesh: Warning: Cabin2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.06.30-17.13.36:430][630]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.30-17.13.36:430][630]FBXImport: Warning: Cabin2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.06.30-17.13.36:430][630]FBXImport: Warning: Cabin2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.06.30-17.13.36:444][630]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Elliott\Desktop\Jam\Cabin1.fbx)
+[2021.06.30-17.13.36:453][630]LogFbx: Loading FBX Scene from C:\Users\Elliott\Desktop\Jam\Cabin1.fbx
+[2021.06.30-17.13.36:464][630]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.30-17.13.36:481][630]LogTexture: Display: Building textures: Colour_Palette (AutoDXT, 512X512)
+[2021.06.30-17.13.36:513][630]LogStaticMesh: Building static mesh Cabin1...
+[2021.06.30-17.13.36:651][630]LogStaticMesh: Built static mesh [0.14s] /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin1.Cabin1
+[2021.06.30-17.13.36:663][630]LogStaticMesh: Warning: Cabin1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.06.30-17.13.36:663][630]LogStaticMesh: Warning: Cabin1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.06.30-17.13.36:677][630]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.30-17.13.36:677][630]FBXImport: Warning: Cabin1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.06.30-17.13.36:677][630]FBXImport: Warning: Cabin1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.06.30-17.13.36:692][630]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Elliott\Desktop\Jam\Cabin4.fbx)
+[2021.06.30-17.13.36:701][630]LogFbx: Loading FBX Scene from C:\Users\Elliott\Desktop\Jam\Cabin4.fbx
+[2021.06.30-17.13.36:714][630]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.30-17.13.36:731][630]LogTexture: Display: Building textures: Colour_Palette (AutoDXT, 512X512)
+[2021.06.30-17.13.36:772][630]LogStaticMesh: Building static mesh Cabin4...
+[2021.06.30-17.13.37:271][630]LogStaticMesh: Built static mesh [0.50s] /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin4.Cabin4
+[2021.06.30-17.13.37:292][630]LogStaticMesh: Warning: Cabin4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.06.30-17.13.37:292][630]LogStaticMesh: Warning: Cabin4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.06.30-17.13.37:316][630]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.30-17.13.37:316][630]FBXImport: Warning: Cabin4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.06.30-17.13.37:316][630]FBXImport: Warning: Cabin4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.06.30-17.13.39:299][839]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-17.13.39:302][839]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-17.13.39:909][910]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin1.Cabin1
+[2021.06.30-17.13.42:533][135]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin2.Cabin2
+[2021.06.30-17.13.42:909][151]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin3.Cabin3
+[2021.06.30-17.13.43:304][169]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin4.Cabin4
+[2021.06.30-17.13.44:165][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.30-17.13.45:096][221]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-17.13.45:122][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.30-17.13.56:221][291]LogSlate: Window 'Cabin4' being destroyed
+[2021.06.30-17.13.56:225][291]LogSlate: Window 'Cabin4' being destroyed
+[2021.06.30-17.13.56:225][291]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-17.13.56:225][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-17.13.56:260][291]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-17.13.56:260][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-17.13.56:289][291]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-17.13.56:289][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-17.13.56:318][291]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-17.13.56:318][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-17.14.01:161][839]LogActorFactory: Actor Factory created Cabin4
+[2021.06.30-17.14.01:605][890]LogActorFactory: Actor Factory created Cabin4
+[2021.06.30-17.14.24:578][551]LogActorFactory: Actor Factory created Cabin1
+[2021.06.30-17.14.25:400][632]LogActorFactory: Actor Factory created Cabin1
+[2021.06.30-17.14.36:084][860]LogActorFactory: Actor Factory created Cabin2
+[2021.06.30-17.14.36:914][954]LogActorFactory: Actor Factory created Cabin2
+[2021.06.30-17.14.44:045][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin2)
+[2021.06.30-17.14.44:863][875]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-17.14.51:131][607]LogActorFactory: Actor Factory created Cabin3
+[2021.06.30-17.14.51:735][674]LogActorFactory: Actor Factory created Cabin3
+[2021.06.30-17.15.07:140][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin2)
+[2021.06.30-17.15.08:850][611]Cmd: TRANSACTION UNDO
+[2021.06.30-17.15.08:850][611]LogEditorTransaction: Undo Scale Actors
+[2021.06.30-17.15.09:973][707]Cmd: TRANSACTION UNDO
+[2021.06.30-17.15.09:973][707]LogEditorTransaction: Undo Scale Actors
+[2021.06.30-17.15.18:798][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin2)
+[2021.06.30-17.15.21:628][ 54]LogActorFactory: Actor Factory created Cabin4
+[2021.06.30-17.15.22:239][121]LogActorFactory: Actor Factory created Cabin4
+[2021.06.30-17.15.29:468][918]Cmd: DELETE
+[2021.06.30-17.15.29:468][918]Cmd: ACTOR DELETE
+[2021.06.30-17.15.29:477][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-17.15.29:482][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.30-17.15.29:489][918]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.06.30-17.15.29:829][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin4)
+[2021.06.30-17.15.31:645][139]Cmd: EDIT COPY
+[2021.06.30-17.15.31:821][156]Cmd: EDIT PASTE
+[2021.06.30-17.15.37:927][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin3)
+[2021.06.30-17.15.38:197][869]Cmd: EDIT COPY
+[2021.06.30-17.15.38:358][884]Cmd: EDIT PASTE
+[2021.06.30-17.15.46:387][790]Cmd: EDIT COPY
+[2021.06.30-17.15.46:564][811]Cmd: EDIT PASTE
+[2021.06.30-17.15.49:285][132]Cmd: TRANSACTION UNDO
+[2021.06.30-17.15.49:285][132]LogEditorTransaction: Undo Rotate Actors
+[2021.06.30-17.15.51:349][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin2)
+[2021.06.30-17.15.51:892][381]Cmd: EDIT COPY
+[2021.06.30-17.15.52:067][398]Cmd: EDIT PASTE
+[2021.06.30-17.16.04:512][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin3)
+[2021.06.30-17.16.16:768][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin7)
+[2021.06.30-17.16.18:484][472]Cmd: TRANSACTION UNDO
+[2021.06.30-17.16.18:484][472]LogEditorTransaction: Undo Scale Actors
+[2021.06.30-17.16.19:245][529]Cmd: DELETE
+[2021.06.30-17.16.19:245][529]Cmd: ACTOR DELETE
+[2021.06.30-17.16.19:253][529]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-17.16.19:257][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.06.30-17.16.19:261][529]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.06.30-17.16.19:657][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin8)
+[2021.06.30-17.16.19:706][575]Cmd: DELETE
+[2021.06.30-17.16.19:706][575]Cmd: ACTOR DELETE
+[2021.06.30-17.16.19:714][575]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-17.16.19:718][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.06.30-17.16.19:718][575]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.30-17.16.21:019][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin3)
+[2021.06.30-17.16.22:041][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin6)
+[2021.06.30-17.16.23:777][ 32]Cmd: DELETE
+[2021.06.30-17.16.23:777][ 32]Cmd: ACTOR DELETE
+[2021.06.30-17.16.23:785][ 32]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-17.16.23:788][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.06.30-17.16.23:789][ 32]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.06.30-17.16.25:010][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin3)
+[2021.06.30-17.16.25:568][228]Cmd: EDIT COPY
+[2021.06.30-17.16.25:740][244]Cmd: EDIT PASTE
+[2021.06.30-17.16.30:767][815]Cmd: TRANSACTION UNDO
+[2021.06.30-17.16.30:767][815]LogEditorTransaction: Undo Move Actors
+[2021.06.30-17.16.37:073][504]Cmd: EDIT COPY
+[2021.06.30-17.16.37:262][522]Cmd: EDIT PASTE
+[2021.06.30-17.16.43:190][182]Cmd: TRANSACTION UNDO
+[2021.06.30-17.16.43:190][182]LogEditorTransaction: Undo Move Actors
+[2021.06.30-17.16.51:365][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin7)
+[2021.06.30-17.16.59:727][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin2)
+[2021.06.30-17.17.00:662][162]Cmd: EDIT COPY
+[2021.06.30-17.17.00:833][180]Cmd: EDIT PASTE
+[2021.06.30-17.17.14:340][731]Cmd: TRANSACTION UNDO
+[2021.06.30-17.17.14:340][731]LogEditorTransaction: Undo Move Actors
+[2021.06.30-17.17.31:995][776]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.17.33:500][952]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.17.34:745][ 92]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.17.35:249][143]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.17.38:187][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OpenShed2)
+[2021.06.30-17.17.43:255][ 88]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.17.43:863][153]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.17.56:289][622]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.17.56:861][685]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.18.10:165][216]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.18.10:754][278]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.18.15:350][808]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.06.30-17.18.19:545][302]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.18.20:106][363]LogActorFactory: Actor Factory created OpenShed
+[2021.06.30-17.18.35:708][179]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.06.30-17.18.37:276][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin8)
+[2021.06.30-17.18.37:707][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OpenShed6)
+[2021.06.30-17.18.39:067][537]Cmd: EDIT COPY
+[2021.06.30-17.18.39:227][550]Cmd: EDIT PASTE
+[2021.06.30-17.18.50:257][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-17.18.56:202][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OpenShed3)
+[2021.06.30-17.18.56:805][546]Cmd: EDIT COPY
+[2021.06.30-17.18.56:974][566]Cmd: EDIT PASTE
+[2021.06.30-17.19.23:403][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin3)
+[2021.06.30-17.20.02:902][987]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.06.30-17.20.51:303][482]Cmd: TRANSACTION UNDO
+[2021.06.30-17.20.51:303][482]LogEditorTransaction: Undo Foliage Editing
+[2021.06.30-17.21.28:611][682]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.06.30-17.21.29:104][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2021.06.30-17.21.29:960][836]Cmd: DELETE
+[2021.06.30-17.21.29:960][836]Cmd: ACTOR DELETE
+[2021.06.30-17.21.29:968][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-17.21.29:972][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.30-17.21.29:981][836]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.06.30-17.21.30:643][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin3)
+[2021.06.30-17.21.31:287][988]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (OpenShed8)
+[2021.06.30-17.21.31:885][ 56]Cmd: EDIT COPY
+[2021.06.30-17.21.32:130][ 85]Cmd: EDIT PASTE
+[2021.06.30-17.21.47:723][819]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.06.30-17.23.12:690][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree11)
+[2021.06.30-17.23.14:080][451]Cmd: EDIT COPY
+[2021.06.30-17.23.14:273][468]Cmd: EDIT PASTE
+[2021.06.30-17.23.17:110][796]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.06.30-17.23.27:026][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.30-17.23.27:051][979]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 8X8)
+[2021.06.30-17.23.27:051][979]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 8X8)
+[2021.06.30-17.23.27:051][979]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 8X8)
+[2021.06.30-17.23.27:051][979]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 8X8)
+[2021.06.30-17.23.27:052][979]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 8X8)
+[2021.06.30-17.23.27:052][979]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 8X8)
+[2021.06.30-17.23.27:052][979]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 8X8)
+[2021.06.30-17.23.27:052][979]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 8X8)
+[2021.06.30-17.23.27:053][979]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 8X8)
+[2021.06.30-17.23.27:053][979]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 8X8)
+[2021.06.30-17.23.27:053][979]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 8X8)
+[2021.06.30-17.23.27:053][979]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 8X8)
+[2021.06.30-17.23.27:054][979]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 8X8)
+[2021.06.30-17.23.27:054][979]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 8X8)
+[2021.06.30-17.23.27:054][979]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 8X8)
+[2021.06.30-17.23.27:055][979]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 8X8)
+[2021.06.30-17.23.27:055][979]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 8X8)
+[2021.06.30-17.23.27:055][979]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 8X8)
+[2021.06.30-17.23.27:055][979]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 8X8)
+[2021.06.30-17.23.27:056][979]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 8X8)
+[2021.06.30-17.23.27:056][979]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 8X8)
+[2021.06.30-17.23.27:056][979]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 8X8)
+[2021.06.30-17.23.27:273][979]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/MainAreaLevelF399A4C6494CEE829D4F478AE46FFA0A.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap'
+[2021.06.30-17.23.27:287][979]AssetCheck: New page: Asset Save: MainAreaLevel
+[2021.06.30-17.23.27:287][979]LogContentValidation: Display: Validating World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.06.30-17.27.42:816][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps17)
+[2021.06.30-17.27.43:872][151]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.06.30-17.27.44:364][204]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.06.30-17.30.16:041][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TotemTestFBX)
+[2021.06.30-17.30.17:369][167]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.30-17.30.17:648][200]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2021.06.30-17.30.22:229][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IceTotem)
+[2021.06.30-17.30.47:043][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TotemTestFBX)
+[2021.06.30-17.30.47:520][536]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (IceTotem)
+[2021.06.30-17.30.48:037][594]Cmd: DELETE
+[2021.06.30-17.30.48:037][594]Cmd: ACTOR DELETE
+[2021.06.30-17.30.48:046][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-17.30.48:046][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-17.30.48:050][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.06.30-17.30.48:060][594]LogEditorActor: Deleted 2 Actors (0.023 secs)
+[2021.06.30-17.30.48:932][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scaling)
+[2021.06.30-17.30.53:412][215]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-17.31.36:783][232]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-17.31.45:941][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.06.30-17.31.46:173][249]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/MainAreaLevel651C6EB54DCE13B82A443191D62BAD28.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap'
+[2021.06.30-17.31.46:187][249]AssetCheck: New page: Asset Save: MainAreaLevel
+[2021.06.30-17.31.46:187][249]LogContentValidation: Display: Validating World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.06.30-17.31.47:948][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.06.30-17.31.48:177][440]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/MainAreaLevelC5E45F694B9474281F72E9B7DB99031E.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap'
+[2021.06.30-17.31.48:190][440]AssetCheck: New page: Asset Save: MainAreaLevel
+[2021.06.30-17.31.48:190][440]LogContentValidation: Display: Validating World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.06.30-17.31.49:149][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.06.30-17.31.49:185][554]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/Cabin36FFD58DB47765332C00779AD43B6DFFE.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/All_Assets/Props/Cabin3.uasset'
+[2021.06.30-17.31.49:214][554]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/Cabin426A54B0E444C1976533AFCACD7542A66.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/All_Assets/Props/Cabin4.uasset'
+[2021.06.30-17.31.49:240][554]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/Cabin219F692474BFF6E8C1D44169FE84F9BC5.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/All_Assets/Props/Cabin2.uasset'
+[2021.06.30-17.31.49:264][554]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/Cabin1579E80B246E3644E48C06CA464C1BBF5.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/All_Assets/Props/Cabin1.uasset'
+[2021.06.30-17.31.49:270][554]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-17.31.49:270][554]LogContentValidation: Display: Validating StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin4.Cabin4
+[2021.06.30-17.31.49:270][554]LogContentValidation: Display: Validating StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin1.Cabin1
+[2021.06.30-17.31.49:270][554]LogContentValidation: Display: Validating StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin2.Cabin2
+[2021.06.30-17.31.49:270][554]LogContentValidation: Display: Validating StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Props/Cabin3.Cabin3
+[2021.06.30-17.32.49:080][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.30-17.32.49:311][806]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/MainAreaLevel5262B9AF49CE76E23C2DACB7FF45A99F.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap'
+[2021.06.30-17.32.49:324][806]AssetCheck: New page: Asset Save: MainAreaLevel
+[2021.06.30-17.32.49:324][806]LogContentValidation: Display: Validating World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
