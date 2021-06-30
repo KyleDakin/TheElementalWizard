@@ -848,3 +848,1212 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-08.48.26:876][688]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
 [2021.06.30-08.48.26:876][688]LogFileHelpers: Loading map 'TutorialLevel' took 0.573
 [2021.06.30-08.48.30:492][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.06.30-09.18.58:030][563]LogSlate: Window 'Place Actors' being destroyed
+[2021.06.30-09.19.13:395][456]LogContentBrowser: Deferred new asset file creation: TutorialLevel1
+[2021.06.30-09.19.13:402][456]LogContentBrowser: Creating deferred item: TutorialLevel1
+[2021.06.30-09.19.20:794][889]LogContentBrowser: Attempting asset rename: TutorialLevel1 -> TutorialLevelTest
+[2021.06.30-09.19.21:190][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.06.30-09.19.21:287][889]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/Levels/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-09.19.21:287][889]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/Levels/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-09.19.21:318][889]LogContentBrowser: End creating deferred item TutorialLevel1
+[2021.06.30-09.19.29:138][333]LogMetaData: Removing '/Game/Kyle/TutorialLevelTest.SKEL_TutorialLevelTest_C' ref from Metadata '/Game/Cianan/Levels/TutorialLevelTest.PackageMetaData'
+[2021.06.30-09.19.29:138][333]LogMetaData: Removing '/Game/Kyle/TutorialLevelTest.TutorialLevelTest_C' ref from Metadata '/Game/Cianan/Levels/TutorialLevelTest.PackageMetaData'
+[2021.06.30-09.19.29:226][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.30-09.19.29:411][333]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevelTest8D976F524D138AF858BDC082FA582F1F.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevelTest.umap'
+[2021.06.30-09.19.29:479][333]LogFileHelpers: Saving map 'TutorialLevelTest' took 0.289
+[2021.06.30-09.19.29:520][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.06.30-09.19.29:530][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.30-09.19.29:533][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.30-09.19.29:566][333]AssetCheck: New page: Asset Save: TutorialLevelTest
+[2021.06.30-09.19.29:566][333]LogContentValidation: Display: Validating World /Game/Kyle/TutorialLevelTest.TutorialLevelTest
+[2021.06.30-09.19.43:179][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.30-09.20.08:004][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall34)
+[2021.06.30-09.20.10:360][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall32)
+[2021.06.30-09.20.19:334][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall34)
+[2021.06.30-09.20.21:584][341]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.20.24:892][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall33)
+[2021.06.30-09.20.31:779][944]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.20.37:615][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall30)
+[2021.06.30-09.20.57:468][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall28)
+[2021.06.30-09.21.09:654][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall28)
+[2021.06.30-09.21.13:720][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall33)
+[2021.06.30-09.21.21:908][928]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.21.26:756][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall41)
+[2021.06.30-09.21.52:794][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall38)
+[2021.06.30-09.21.58:228][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall40)
+[2021.06.30-09.22.04:082][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall42)
+[2021.06.30-09.22.17:317][228]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.22.31:749][ 25]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.06.30-09.22.32:021][ 25]LogSlate: Took 0.007381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.30-09.23.12:407][382]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 8X8)
+[2021.06.30-09.23.12:408][382]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 8X8)
+[2021.06.30-09.23.12:733][382]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 8X8)
+[2021.06.30-09.23.12:734][382]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 8X8)
+[2021.06.30-09.23.12:734][382]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 8X8)
+[2021.06.30-09.23.12:735][382]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 8X8)
+[2021.06.30-09.23.12:735][382]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 8X8)
+[2021.06.30-09.23.12:736][382]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 8X8)
+[2021.06.30-09.23.12:737][382]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 8X8)
+[2021.06.30-09.23.12:737][382]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 8X8)
+[2021.06.30-09.23.12:737][382]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 8X8)
+[2021.06.30-09.23.12:738][382]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 8X8)
+[2021.06.30-09.23.12:739][382]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 8X8)
+[2021.06.30-09.23.12:740][382]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 8X8)
+[2021.06.30-09.23.12:740][382]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 8X8)
+[2021.06.30-09.23.12:741][382]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 8X8)
+[2021.06.30-09.23.12:741][382]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 8X8)
+[2021.06.30-09.23.12:742][382]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 8X8)
+[2021.06.30-09.23.12:743][382]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 8X8)
+[2021.06.30-09.23.12:743][382]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 8X8)
+[2021.06.30-09.23.12:744][382]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 8X8)
+[2021.06.30-09.23.12:744][382]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 8X8)
+[2021.06.30-09.23.12:745][382]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 8X8)
+[2021.06.30-09.23.12:745][382]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 8X8)
+[2021.06.30-09.23.12:746][382]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 8X8)
+[2021.06.30-09.23.12:746][382]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 8X8)
+[2021.06.30-09.23.12:747][382]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 8X8)
+[2021.06.30-09.23.12:747][382]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 8X8)
+[2021.06.30-09.23.12:748][382]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 8X8)
+[2021.06.30-09.23.12:748][382]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 8X8)
+[2021.06.30-09.23.12:748][382]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 8X8)
+[2021.06.30-09.23.12:749][382]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 8X8)
+[2021.06.30-09.23.12:750][382]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 8X8)
+[2021.06.30-09.23.12:750][382]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 8X8)
+[2021.06.30-09.23.12:750][382]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 8X8)
+[2021.06.30-09.23.12:751][382]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 8X8)
+[2021.06.30-09.23.12:751][382]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 8X8)
+[2021.06.30-09.23.12:752][382]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 8X8)
+[2021.06.30-09.23.12:752][382]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 8X8)
+[2021.06.30-09.23.12:753][382]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 8X8)
+[2021.06.30-09.23.12:753][382]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 8X8)
+[2021.06.30-09.23.12:754][382]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 8X8)
+[2021.06.30-09.23.12:754][382]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 8X8)
+[2021.06.30-09.23.12:755][382]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 8X8)
+[2021.06.30-09.23.12:755][382]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 8X8)
+[2021.06.30-09.23.12:756][382]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 8X8)
+[2021.06.30-09.23.12:756][382]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 8X8)
+[2021.06.30-09.23.12:756][382]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 8X8)
+[2021.06.30-09.23.12:757][382]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 8X8)
+[2021.06.30-09.23.12:758][382]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 8X8)
+[2021.06.30-09.23.12:758][382]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 8X8)
+[2021.06.30-09.23.12:759][382]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 8X8)
+[2021.06.30-09.23.12:759][382]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 8X8)
+[2021.06.30-09.23.12:760][382]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 8X8)
+[2021.06.30-09.23.12:761][382]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 8X8)
+[2021.06.30-09.23.12:761][382]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 8X8)
+[2021.06.30-09.23.12:761][382]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 8X8)
+[2021.06.30-09.23.12:762][382]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 8X8)
+[2021.06.30-09.23.12:762][382]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 8X8)
+[2021.06.30-09.23.12:763][382]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 8X8)
+[2021.06.30-09.23.12:763][382]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 8X8)
+[2021.06.30-09.23.12:763][382]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 8X8)
+[2021.06.30-09.23.12:764][382]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 8X8)
+[2021.06.30-09.23.12:764][382]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 8X8)
+[2021.06.30-09.23.12:765][382]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 8X8)
+[2021.06.30-09.23.12:765][382]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 8X8)
+[2021.06.30-09.23.12:766][382]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 8X8)
+[2021.06.30-09.23.12:766][382]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 8X8)
+[2021.06.30-09.23.12:767][382]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 8X8)
+[2021.06.30-09.23.12:767][382]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 8X8)
+[2021.06.30-09.23.12:768][382]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 8X8)
+[2021.06.30-09.23.12:768][382]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 8X8)
+[2021.06.30-09.23.12:769][382]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 8X8)
+[2021.06.30-09.23.12:769][382]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 8X8)
+[2021.06.30-09.23.12:770][382]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 8X8)
+[2021.06.30-09.23.12:771][382]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 8X8)
+[2021.06.30-09.23.12:772][382]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 8X8)
+[2021.06.30-09.23.12:773][382]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 8X8)
+[2021.06.30-09.23.12:773][382]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 8X8)
+[2021.06.30-09.23.12:773][382]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 8X8)
+[2021.06.30-09.23.12:774][382]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 8X8)
+[2021.06.30-09.23.12:774][382]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 8X8)
+[2021.06.30-09.23.12:775][382]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 8X8)
+[2021.06.30-09.23.12:776][382]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 8X8)
+[2021.06.30-09.23.12:776][382]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 8X8)
+[2021.06.30-09.23.12:777][382]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 8X8)
+[2021.06.30-09.23.12:777][382]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 8X8)
+[2021.06.30-09.23.12:778][382]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 8X8)
+[2021.06.30-09.23.12:778][382]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 8X8)
+[2021.06.30-09.23.12:779][382]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 8X8)
+[2021.06.30-09.23.12:779][382]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 8X8)
+[2021.06.30-09.23.12:780][382]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 8X8)
+[2021.06.30-09.23.12:781][382]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 8X8)
+[2021.06.30-09.23.12:781][382]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 8X8)
+[2021.06.30-09.23.12:782][382]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 8X8)
+[2021.06.30-09.23.12:782][382]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 8X8)
+[2021.06.30-09.23.12:782][382]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 8X8)
+[2021.06.30-09.23.12:783][382]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 8X8)
+[2021.06.30-09.23.12:783][382]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 8X8)
+[2021.06.30-09.23.12:784][382]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 8X8)
+[2021.06.30-09.23.12:784][382]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 8X8)
+[2021.06.30-09.23.12:785][382]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 8X8)
+[2021.06.30-09.23.12:786][382]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 8X8)
+[2021.06.30-09.23.12:786][382]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 8X8)
+[2021.06.30-09.23.12:787][382]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 8X8)
+[2021.06.30-09.23.12:788][382]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 8X8)
+[2021.06.30-09.23.12:789][382]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 8X8)
+[2021.06.30-09.23.12:789][382]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 8X8)
+[2021.06.30-09.23.12:790][382]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 8X8)
+[2021.06.30-09.23.12:791][382]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 8X8)
+[2021.06.30-09.23.12:791][382]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 8X8)
+[2021.06.30-09.23.12:791][382]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 8X8)
+[2021.06.30-09.23.12:792][382]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 8X8)
+[2021.06.30-09.23.12:792][382]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 8X8)
+[2021.06.30-09.23.12:792][382]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 8X8)
+[2021.06.30-09.23.12:793][382]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 8X8)
+[2021.06.30-09.23.12:793][382]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 8X8)
+[2021.06.30-09.23.12:794][382]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 8X8)
+[2021.06.30-09.23.12:794][382]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 8X8)
+[2021.06.30-09.23.12:795][382]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 8X8)
+[2021.06.30-09.23.12:795][382]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 8X8)
+[2021.06.30-09.23.12:795][382]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 8X8)
+[2021.06.30-09.23.12:796][382]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 8X8)
+[2021.06.30-09.23.12:796][382]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 8X8)
+[2021.06.30-09.23.12:797][382]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 8X8)
+[2021.06.30-09.23.12:797][382]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 8X8)
+[2021.06.30-09.23.12:798][382]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 8X8)
+[2021.06.30-09.23.12:798][382]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 8X8)
+[2021.06.30-09.23.12:841][384]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 8X8)
+[2021.06.30-09.23.12:842][384]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 8X8)
+[2021.06.30-09.23.13:092][399]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 8X8)
+[2021.06.30-09.23.13:092][399]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 8X8)
+[2021.06.30-09.23.13:474][422]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 8X8)
+[2021.06.30-09.23.13:475][422]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 8X8)
+[2021.06.30-09.23.14:027][455]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 8X8)
+[2021.06.30-09.23.14:027][455]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 8X8)
+[2021.06.30-09.23.14:643][492]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 8X8)
+[2021.06.30-09.23.14:644][492]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 8X8)
+[2021.06.30-09.23.14:809][502]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 8X8)
+[2021.06.30-09.23.14:810][502]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 8X8)
+[2021.06.30-09.23.14:925][509]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 8X8)
+[2021.06.30-09.23.14:926][509]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 8X8)
+[2021.06.30-09.23.16:627][611]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 8X8)
+[2021.06.30-09.23.16:628][611]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 8X8)
+[2021.06.30-09.23.16:843][624]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 8X8)
+[2021.06.30-09.23.16:844][624]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 8X8)
+[2021.06.30-09.23.16:994][633]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 8X8)
+[2021.06.30-09.23.16:995][633]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 8X8)
+[2021.06.30-09.23.17:209][646]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 8X8)
+[2021.06.30-09.23.17:210][646]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 8X8)
+[2021.06.30-09.23.17:477][662]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 8X8)
+[2021.06.30-09.23.17:478][662]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 8X8)
+[2021.06.30-09.23.17:642][672]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 8X8)
+[2021.06.30-09.23.17:643][672]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 8X8)
+[2021.06.30-09.23.17:975][692]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 8X8)
+[2021.06.30-09.23.17:976][692]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 8X8)
+[2021.06.30-09.23.18:827][743]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 8X8)
+[2021.06.30-09.23.18:828][743]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 8X8)
+[2021.06.30-09.23.18:976][752]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 8X8)
+[2021.06.30-09.23.18:977][752]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 8X8)
+[2021.06.30-09.23.19:126][761]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 8X8)
+[2021.06.30-09.23.19:126][761]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 8X8)
+[2021.06.30-09.23.19:343][774]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 8X8)
+[2021.06.30-09.23.19:344][774]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 8X8)
+[2021.06.30-09.23.19:543][786]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 8X8)
+[2021.06.30-09.23.19:544][786]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 8X8)
+[2021.06.30-09.23.19:844][804]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 8X8)
+[2021.06.30-09.23.19:845][804]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 8X8)
+[2021.06.30-09.23.20:160][823]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 8X8)
+[2021.06.30-09.23.20:161][823]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 8X8)
+[2021.06.30-09.23.23:061][997]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 8X8)
+[2021.06.30-09.23.23:062][997]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 8X8)
+[2021.06.30-09.23.23:277][ 10]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 8X8)
+[2021.06.30-09.23.23:278][ 10]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 8X8)
+[2021.06.30-09.23.23:394][ 17]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 8X8)
+[2021.06.30-09.23.23:395][ 17]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 8X8)
+[2021.06.30-09.23.23:511][ 24]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 8X8)
+[2021.06.30-09.23.23:512][ 24]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 8X8)
+[2021.06.30-09.23.23:644][ 32]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 8X8)
+[2021.06.30-09.23.23:645][ 32]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 8X8)
+[2021.06.30-09.23.23:960][ 51]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 8X8)
+[2021.06.30-09.23.23:961][ 51]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 8X8)
+[2021.06.30-09.23.25:245][128]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 8X8)
+[2021.06.30-09.23.25:246][128]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 8X8)
+[2021.06.30-09.23.25:444][140]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 8X8)
+[2021.06.30-09.23.25:445][140]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 8X8)
+[2021.06.30-09.23.25:627][151]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 8X8)
+[2021.06.30-09.23.25:628][151]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 8X8)
+[2021.06.30-09.23.25:827][163]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 8X8)
+[2021.06.30-09.23.25:828][163]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 8X8)
+[2021.06.30-09.23.25:994][173]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 8X8)
+[2021.06.30-09.23.25:995][173]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 8X8)
+[2021.06.30-09.23.26:177][184]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 8X8)
+[2021.06.30-09.23.26:178][184]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 8X8)
+[2021.06.30-09.23.52:638][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall34)
+[2021.06.30-09.24.04:596][461]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.24.13:662][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall30)
+[2021.06.30-09.24.14:949][ 62]Cmd: DUPLICATE
+[2021.06.30-09.24.14:949][ 62]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.24.15:377][ 62]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2021.06.30-09.24.23:610][554]Cmd: DUPLICATE
+[2021.06.30-09.24.23:610][554]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.24.27:245][771]Cmd: DELETE
+[2021.06.30-09.24.27:548][771]Cmd: ACTOR DELETE
+[2021.06.30-09.24.27:630][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-09.24.27:635][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.30-09.24.27:636][771]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2021.06.30-09.24.29:544][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall37)
+[2021.06.30-09.24.31:710][ 15]Cmd: DUPLICATE
+[2021.06.30-09.24.31:710][ 15]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.24.56:276][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall30)
+[2021.06.30-09.25.21:464][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall41)
+[2021.06.30-09.25.31:535][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall29)
+[2021.06.30-09.25.36:747][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall23)
+[2021.06.30-09.25.49:019][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall36)
+[2021.06.30-09.25.55:574][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall31)
+[2021.06.30-09.27.04:295][  8]LogRenderer: Reallocating scene render targets to support 1460x352 Format 10 NumSamples 1 (Frame:65444).
+[2021.06.30-09.27.04:334][  9]LogRenderer: Reallocating scene render targets to support 1460x360 Format 10 NumSamples 1 (Frame:65446).
+[2021.06.30-09.27.04:379][ 10]LogRenderer: Reallocating scene render targets to support 1460x380 Format 10 NumSamples 1 (Frame:65448).
+[2021.06.30-09.27.04:411][ 11]LogRenderer: Reallocating scene render targets to support 1460x412 Format 10 NumSamples 1 (Frame:65450).
+[2021.06.30-09.27.04:449][ 12]LogRenderer: Reallocating scene render targets to support 1460x448 Format 10 NumSamples 1 (Frame:65452).
+[2021.06.30-09.27.04:489][ 13]LogRenderer: Reallocating scene render targets to support 1460x484 Format 10 NumSamples 1 (Frame:65454).
+[2021.06.30-09.27.04:514][ 14]LogRenderer: Reallocating scene render targets to support 1460x516 Format 10 NumSamples 1 (Frame:65456).
+[2021.06.30-09.27.04:540][ 15]LogRenderer: Reallocating scene render targets to support 1460x524 Format 10 NumSamples 1 (Frame:65458).
+[2021.06.30-09.27.04:566][ 16]LogRenderer: Reallocating scene render targets to support 1460x528 Format 10 NumSamples 1 (Frame:65460).
+[2021.06.30-09.27.04:592][ 17]LogRenderer: Reallocating scene render targets to support 1460x536 Format 10 NumSamples 1 (Frame:65462).
+[2021.06.30-09.27.04:619][ 18]LogRenderer: Reallocating scene render targets to support 1460x548 Format 10 NumSamples 1 (Frame:65464).
+[2021.06.30-09.27.04:639][ 19]LogRenderer: Reallocating scene render targets to support 1460x560 Format 10 NumSamples 1 (Frame:65466).
+[2021.06.30-09.27.04:663][ 20]LogRenderer: Reallocating scene render targets to support 1460x568 Format 10 NumSamples 1 (Frame:65468).
+[2021.06.30-09.27.04:685][ 21]LogRenderer: Reallocating scene render targets to support 1460x572 Format 10 NumSamples 1 (Frame:65470).
+[2021.06.30-09.27.05:059][ 25]LogRenderer: Reallocating scene render targets to support 1460x592 Format 10 NumSamples 1 (Frame:65476).
+[2021.06.30-09.27.05:120][ 27]LogRenderer: Reallocating scene render targets to support 1460x596 Format 10 NumSamples 1 (Frame:65480).
+[2021.06.30-09.27.15:638][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall35)
+[2021.06.30-09.27.16:672][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall36)
+[2021.06.30-09.27.21:997][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall29)
+[2021.06.30-09.27.23:321][115]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (OuterWall23)
+[2021.06.30-09.27.26:008][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall36)
+[2021.06.30-09.27.38:954][ 50]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.27.42:642][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall36)
+[2021.06.30-09.27.48:215][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.28.13:819][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall34)
+[2021.06.30-09.28.41:596][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall28)
+[2021.06.30-09.28.42:601][859]Cmd: DUPLICATE
+[2021.06.30-09.28.42:601][859]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.28.47:705][164]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.28.54:709][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall39)
+[2021.06.30-09.28.56:648][698]Cmd: DUPLICATE
+[2021.06.30-09.28.56:648][698]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.29.05:619][235]Cmd: DELETE
+[2021.06.30-09.29.05:619][235]Cmd: ACTOR DELETE
+[2021.06.30-09.29.05:624][235]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-09.29.05:629][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.30-09.29.05:630][235]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.30-09.29.06:587][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalPlatform3)
+[2021.06.30-09.29.07:511][347]Cmd: DUPLICATE
+[2021.06.30-09.29.07:511][347]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.29.23:299][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2021.06.30-09.29.24:255][331]Cmd: DELETE
+[2021.06.30-09.29.24:255][331]Cmd: ACTOR DELETE
+[2021.06.30-09.29.24:260][331]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-09.29.24:265][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.30-09.29.24:266][331]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.06.30-09.29.39:842][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall34)
+[2021.06.30-09.30.15:114][377]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 8X8)
+[2021.06.30-09.30.15:115][377]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 8X8)
+[2021.06.30-09.30.29:146][219]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 8X8)
+[2021.06.30-09.30.29:148][219]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 8X8)
+[2021.06.30-09.30.30:146][279]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 8X8)
+[2021.06.30-09.30.30:148][279]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 8X8)
+[2021.06.30-09.31.04:246][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar1)
+[2021.06.30-09.31.05:156][377]Cmd: DUPLICATE
+[2021.06.30-09.31.05:156][377]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.31.06:355][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall4)
+[2021.06.30-09.31.07:159][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar2)
+[2021.06.30-09.31.11:167][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall11)
+[2021.06.30-09.31.12:089][788]Cmd: DELETE
+[2021.06.30-09.31.12:089][788]Cmd: ACTOR DELETE
+[2021.06.30-09.31.12:096][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-09.31.12:101][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.06.30-09.31.12:103][788]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.06.30-09.31.19:627][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar2)
+[2021.06.30-09.31.20:398][285]Cmd: DUPLICATE
+[2021.06.30-09.31.20:398][285]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.31.23:953][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall19)
+[2021.06.30-09.31.24:740][543]Cmd: DELETE
+[2021.06.30-09.31.24:740][543]Cmd: ACTOR DELETE
+[2021.06.30-09.31.24:746][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-09.31.24:751][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.30-09.31.24:752][543]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.30-09.31.40:141][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence19)
+[2021.06.30-09.31.41:012][518]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor4)
+[2021.06.30-09.31.47:224][887]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bush5)
+[2021.06.30-09.31.48:040][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence20)
+[2021.06.30-09.31.49:395][ 15]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fence19)
+[2021.06.30-09.32.10:843][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence15)
+[2021.06.30-09.32.17:981][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence3)
+[2021.06.30-09.32.18:685][740]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fence2)
+[2021.06.30-09.32.19:308][776]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fence1)
+[2021.06.30-09.32.21:551][909]LogStaticMesh: Building static mesh Fence2...
+[2021.06.30-09.32.21:567][909]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Assets_With_Texture/Fence2.Fence2
+[2021.06.30-09.32.31:497][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence2)
+[2021.06.30-09.32.39:783][997]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.32.51:197][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall29)
+[2021.06.30-09.32.54:203][860]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.33.23:770][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall33)
+[2021.06.30-09.33.28:471][914]Cmd: DUPLICATE
+[2021.06.30-09.33.28:471][914]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.33.35:839][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall33)
+[2021.06.30-09.33.39:188][536]Cmd: TRANSACTION UNDO
+[2021.06.30-09.33.39:188][536]LogEditorTransaction: Undo Move Actors
+[2021.06.30-09.33.40:369][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall32)
+[2021.06.30-09.33.44:023][816]Cmd: TRANSACTION UNDO
+[2021.06.30-09.33.44:023][816]LogEditorTransaction: Undo Move Actors
+[2021.06.30-09.33.45:024][871]Cmd: DUPLICATE
+[2021.06.30-09.33.45:024][871]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.33.48:255][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.34.02:889][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall34)
+[2021.06.30-09.34.27:605][401]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 8X8)
+[2021.06.30-09.34.58:430][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall39)
+[2021.06.30-09.35.00:319][361]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (OuterWall43)
+[2021.06.30-09.35.03:841][571]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (OuterWall44)
+[2021.06.30-09.35.07:271][776]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.35.09:916][934]Cmd: TRANSACTION UNDO
+[2021.06.30-09.35.09:916][934]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-09.35.10:348][951]Cmd: TRANSACTION UNDO
+[2021.06.30-09.35.10:348][951]LogEditorTransaction: Undo Move Actors
+[2021.06.30-09.35.14:143][178]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.35.30:557][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall2)
+[2021.06.30-09.35.31:373][210]Cmd: DUPLICATE
+[2021.06.30-09.35.31:373][210]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.35.49:535][298]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.35.59:315][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall37)
+[2021.06.30-09.36.54:769][209]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.37.05:281][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall37)
+[2021.06.30-09.37.05:987][880]Cmd: DELETE
+[2021.06.30-09.37.05:987][880]Cmd: ACTOR DELETE
+[2021.06.30-09.37.05:992][880]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-09.37.05:998][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.30-09.37.06:000][880]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.06.30-09.37.26:673][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall42)
+[2021.06.30-09.37.44:725][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar6)
+[2021.06.30-09.37.45:513][249]Cmd: DUPLICATE
+[2021.06.30-09.37.45:513][249]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.37.51:599][613]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.38.03:028][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar9)
+[2021.06.30-09.38.05:715][457]Cmd: TRANSACTION UNDO
+[2021.06.30-09.38.05:715][457]LogEditorTransaction: Undo Move Actors
+[2021.06.30-09.38.06:509][501]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.38.08:611][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall34)
+[2021.06.30-09.38.14:665][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.38.24:063][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall34)
+[2021.06.30-09.38.27:900][780]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.38.28:997][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall34)
+[2021.06.30-09.38.32:315][ 43]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.38.47:385][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall46)
+[2021.06.30-09.38.52:453][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall1)
+[2021.06.30-09.38.53:138][289]Cmd: DUPLICATE
+[2021.06.30-09.38.53:138][289]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.39.11:845][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall1)
+[2021.06.30-09.39.12:512][449]Cmd: DUPLICATE
+[2021.06.30-09.39.12:512][449]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.39.34:295][601]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.39.48:580][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall29)
+[2021.06.30-09.39.51:732][645]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.40.00:415][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall36)
+[2021.06.30-09.40.16:254][114]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.40.27:300][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall31)
+[2021.06.30-09.40.27:821][806]Cmd: DUPLICATE
+[2021.06.30-09.40.27:821][806]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.40.36:393][319]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.41.01:658][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall38)
+[2021.06.30-09.41.38:673][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar4)
+[2021.06.30-09.41.42:091][257]Cmd: DUPLICATE
+[2021.06.30-09.41.42:091][257]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.41.48:221][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence24)
+[2021.06.30-09.41.56:391][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar3)
+[2021.06.30-09.41.57:144][157]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar1)
+[2021.06.30-09.41.59:331][287]Cmd: DUPLICATE
+[2021.06.30-09.41.59:331][287]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.42.02:546][479]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.42.14:607][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar9)
+[2021.06.30-09.42.16:961][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall24)
+[2021.06.30-09.42.17:680][383]Cmd: DUPLICATE
+[2021.06.30-09.42.17:680][383]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.42.23:378][724]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.42.28:855][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall47)
+[2021.06.30-09.42.35:858][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar9)
+[2021.06.30-09.42.46:492][108]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.42.52:438][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall26)
+[2021.06.30-09.42.53:575][531]Cmd: DUPLICATE
+[2021.06.30-09.42.53:575][531]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.43.04:526][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar10)
+[2021.06.30-09.43.20:200][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall38)
+[2021.06.30-09.43.49:443][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall40)
+[2021.06.30-09.44.02:845][682]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.44.08:027][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall40)
+[2021.06.30-09.44.13:629][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence19)
+[2021.06.30-09.45.12:409][849]Cmd: TRANSACTION UNDO
+[2021.06.30-09.45.12:409][849]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-09.45.36:257][250]Cmd: TRANSACTION UNDO
+[2021.06.30-09.45.36:257][250]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.06.30-09.45.36:583][250]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 8X8)
+[2021.06.30-09.45.36:584][250]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 8X8)
+[2021.06.30-09.45.36:584][250]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 8X8)
+[2021.06.30-09.45.36:585][250]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 8X8)
+[2021.06.30-09.45.54:881][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock5)
+[2021.06.30-09.45.59:422][614]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Rock1)
+[2021.06.30-09.46.00:208][660]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Rock2)
+[2021.06.30-09.46.01:244][721]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Rock3)
+[2021.06.30-09.46.01:928][761]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Rock4)
+[2021.06.30-09.46.03:995][884]Cmd: DUPLICATE
+[2021.06.30-09.46.03:995][884]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.46.11:381][326]Cmd: DUPLICATE
+[2021.06.30-09.46.11:381][326]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.46.17:082][667]Cmd: TRANSACTION UNDO
+[2021.06.30-09.46.17:082][667]LogEditorTransaction: Undo Move Actors
+[2021.06.30-09.46.38:520][948]Cmd: DUPLICATE
+[2021.06.30-09.46.38:520][948]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.46.58:042][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-09.47.01:362][316]Cmd: TRANSACTION UNDO
+[2021.06.30-09.47.01:362][316]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-09.47.04:023][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-09.47.06:907][636]Cmd: TRANSACTION UNDO
+[2021.06.30-09.47.06:907][636]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-09.47.09:522][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-09.47.19:308][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock12)
+[2021.06.30-09.47.21:093][474]Cmd: DUPLICATE
+[2021.06.30-09.47.21:093][474]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.47.43:858][838]Cmd: DUPLICATE
+[2021.06.30-09.47.43:858][838]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.47.54:077][450]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.47.56:575][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock21)
+[2021.06.30-09.47.59:443][770]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.48.01:059][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock21)
+[2021.06.30-09.48.06:612][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock15)
+[2021.06.30-09.48.07:814][269]Cmd: DUPLICATE
+[2021.06.30-09.48.07:814][269]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.48.42:998][379]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.48.45:344][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock23)
+[2021.06.30-09.48.47:752][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall35)
+[2021.06.30-09.48.48:388][699]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.48.57:987][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock21)
+[2021.06.30-09.49.03:656][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock23)
+[2021.06.30-09.49.14:144][240]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-09.49.27:213][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush11)
+[2021.06.30-09.49.33:130][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush10)
+[2021.06.30-09.49.36:150][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-09.49.37:221][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush10)
+[2021.06.30-09.49.48:332][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence13)
+[2021.06.30-09.49.50:868][436]Cmd: DELETE
+[2021.06.30-09.49.50:868][436]Cmd: ACTOR DELETE
+[2021.06.30-09.49.50:873][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-09.49.50:879][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.30-09.49.50:881][436]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.06.30-09.49.51:520][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall20)
+[2021.06.30-09.49.53:673][603]Cmd: TRANSACTION UNDO
+[2021.06.30-09.49.53:673][603]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-09.49.54:146][629]Cmd: TRANSACTION UNDO
+[2021.06.30-09.49.54:146][629]LogEditorTransaction: Undo Delete Actors
+[2021.06.30-09.49.55:002][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall20)
+[2021.06.30-09.50.06:796][383]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.50.10:779][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall20)
+[2021.06.30-09.50.22:488][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall8)
+[2021.06.30-09.50.26:659][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence13)
+[2021.06.30-09.50.46:497][760]Cmd: TRANSACTION UNDO
+[2021.06.30-09.50.46:497][760]LogEditorTransaction: Undo Move Actors
+[2021.06.30-09.50.47:123][793]Cmd: TRANSACTION UNDO
+[2021.06.30-09.50.47:123][793]LogEditorTransaction: Undo Scale Actors
+[2021.06.30-09.50.56:959][383]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.51.06:124][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush11)
+[2021.06.30-09.51.09:331][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush10)
+[2021.06.30-09.51.12:120][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence13)
+[2021.06.30-09.51.13:255][356]Cmd: DUPLICATE
+[2021.06.30-09.51.13:256][356]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.51.27:628][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush11)
+[2021.06.30-09.51.29:963][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush10)
+[2021.06.30-09.51.33:785][583]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.51.48:668][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock21)
+[2021.06.30-09.51.52:470][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock14)
+[2021.06.30-09.51.53:224][746]Cmd: DUPLICATE
+[2021.06.30-09.51.53:224][746]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.52.14:801][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence10)
+[2021.06.30-09.52.30:135][956]Cmd: TRANSACTION UNDO
+[2021.06.30-09.52.30:135][956]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.06.30-09.52.37:141][352]Cmd: TRANSACTION UNDO
+[2021.06.30-09.52.37:141][352]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-09.53.32:321][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall30)
+[2021.06.30-09.53.35:743][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall30)
+[2021.06.30-09.53.36:178][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.53.39:590][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall30)
+[2021.06.30-09.53.47:334][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall30)
+[2021.06.30-09.53.47:736][576]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.53.51:264][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall8)
+[2021.06.30-09.53.55:785][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.54.11:496][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Signpost)
+[2021.06.30-09.54.31:465][196]Cmd: TRANSACTION UNDO
+[2021.06.30-09.54.31:465][196]LogEditorTransaction: Undo Move Actors
+[2021.06.30-09.55.18:230][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall42)
+[2021.06.30-09.55.45:861][647]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.55.52:643][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall42)
+[2021.06.30-09.55.59:651][472]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.56.06:912][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall43)
+[2021.06.30-09.56.07:664][951]Cmd: DUPLICATE
+[2021.06.30-09.56.07:664][951]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.56.19:837][680]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.56.30:514][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall45)
+[2021.06.30-09.56.32:903][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall46)
+[2021.06.30-09.56.33:954][523]Cmd: DUPLICATE
+[2021.06.30-09.56.33:954][523]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.56.45:349][205]Cmd: TRANSACTION UNDO
+[2021.06.30-09.56.45:349][205]LogEditorTransaction: Undo Move Actors
+[2021.06.30-09.56.46:588][275]Cmd: TRANSACTION REDO
+[2021.06.30-09.56.46:588][275]LogEditorTransaction: Redo Move Actors
+[2021.06.30-09.56.47:758][345]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.57.59:069][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall20)
+[2021.06.30-09.58.25:058][176]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-09.58.29:508][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall20)
+[2021.06.30-09.58.41:978][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.59.01:378][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall25)
+[2021.06.30-09.59.08:798][796]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-09.59.14:875][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence13)
+[2021.06.30-09.59.26:326][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush21)
+[2021.06.30-09.59.35:484][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush18)
+[2021.06.30-09.59.38:048][547]Cmd: DUPLICATE
+[2021.06.30-09.59.38:048][547]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.59.49:288][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush23)
+[2021.06.30-09.59.50:388][285]Cmd: DUPLICATE
+[2021.06.30-09.59.50:388][285]Cmd: ACTOR DUPLICATE
+[2021.06.30-09.59.59:221][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence9)
+[2021.06.30-09.59.59:891][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence13)
+[2021.06.30-10.00.00:850][909]Cmd: DELETE
+[2021.06.30-10.00.00:850][909]Cmd: ACTOR DELETE
+[2021.06.30-10.00.00:855][909]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.00.00:861][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.30-10.00.00:863][909]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.06.30-10.00.04:384][121]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.00.05:082][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence43)
+[2021.06.30-10.00.05:902][210]Cmd: DELETE
+[2021.06.30-10.00.05:902][210]Cmd: ACTOR DELETE
+[2021.06.30-10.00.05:909][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.00.05:914][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.06.30-10.00.05:915][210]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.06.30-10.00.08:405][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush10)
+[2021.06.30-10.00.17:443][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush24)
+[2021.06.30-10.00.19:379][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush25)
+[2021.06.30-10.00.22:733][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush24)
+[2021.06.30-10.00.24:056][294]Cmd: DELETE
+[2021.06.30-10.00.24:056][294]Cmd: ACTOR DELETE
+[2021.06.30-10.00.24:061][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.00.24:067][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.30-10.00.24:068][294]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.30-10.00.33:757][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush25)
+[2021.06.30-10.00.37:849][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall35)
+[2021.06.30-10.00.39:036][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush25)
+[2021.06.30-10.00.42:191][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall35)
+[2021.06.30-10.00.45:846][594]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.00.54:693][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall20)
+[2021.06.30-10.01.01:183][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall20)
+[2021.06.30-10.01.04:084][686]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.01.41:164][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall33)
+[2021.06.30-10.01.44:484][108]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.01.49:230][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-10.02.05:327][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall9)
+[2021.06.30-10.02.06:331][416]Cmd: DUPLICATE
+[2021.06.30-10.02.06:331][416]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.02.19:470][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.02.22:493][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall13)
+[2021.06.30-10.02.33:973][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.02.35:706][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall13)
+[2021.06.30-10.02.42:511][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence4)
+[2021.06.30-10.02.43:249][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall13)
+[2021.06.30-10.02.46:170][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.02.48:151][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall13)
+[2021.06.30-10.02.51:687][124]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.03.01:807][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall13)
+[2021.06.30-10.03.07:829][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.03.13:457][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall13)
+[2021.06.30-10.03.18:594][734]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.03.23:377][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall13)
+[2021.06.30-10.03.25:621][153]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.03.45:870][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall21)
+[2021.06.30-10.03.47:673][474]Cmd: DUPLICATE
+[2021.06.30-10.03.47:673][474]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.03.53:854][844]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.03.55:299][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall51)
+[2021.06.30-10.03.59:860][202]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.04.19:561][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall51)
+[2021.06.30-10.04.25:114][715]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.04.58:765][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock24)
+[2021.06.30-10.05.00:245][820]Cmd: DUPLICATE
+[2021.06.30-10.05.00:245][820]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.05.37:868][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall21)
+[2021.06.30-10.06.01:109][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence14)
+[2021.06.30-10.06.09:793][989]Cmd: DELETE
+[2021.06.30-10.06.09:793][989]Cmd: ACTOR DELETE
+[2021.06.30-10.06.09:799][989]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.06.09:804][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.30-10.06.09:805][989]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.30-10.06.10:378][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall21)
+[2021.06.30-10.06.18:268][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence4)
+[2021.06.30-10.06.26:471][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence3)
+[2021.06.30-10.06.27:090][ 23]Cmd: DELETE
+[2021.06.30-10.06.27:090][ 23]Cmd: ACTOR DELETE
+[2021.06.30-10.06.27:095][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.06.27:100][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.30-10.06.27:101][ 23]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.30-10.06.27:940][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence4)
+[2021.06.30-10.06.32:327][336]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.06.37:010][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall4)
+[2021.06.30-10.06.48:534][306]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.06.54:817][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall4)
+[2021.06.30-10.07.19:886][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall13)
+[2021.06.30-10.07.23:572][405]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.07.36:625][187]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.07.45:168][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock25)
+[2021.06.30-10.07.54:289][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence4)
+[2021.06.30-10.08.13:809][412]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.08.16:173][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock25)
+[2021.06.30-10.08.19:125][729]Cmd: DUPLICATE
+[2021.06.30-10.08.19:125][729]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.08.22:946][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.08.25:352][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.06.30-10.08.42:516][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall29)
+[2021.06.30-10.08.44:475][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.06.30-10.09.01:848][285]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.09.04:083][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.06.30-10.09.09:476][740]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.09.11:741][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.06.30-10.09.14:467][ 37]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.09.17:065][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.06.30-10.09.20:884][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall29)
+[2021.06.30-10.09.22:927][541]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-10.09.27:171][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall13)
+[2021.06.30-10.09.35:378][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall29)
+[2021.06.30-10.09.37:450][409]Cmd: TRANSACTION UNDO
+[2021.06.30-10.09.37:450][409]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-10.09.37:842][424]Cmd: TRANSACTION UNDO
+[2021.06.30-10.09.37:842][424]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.09.38:671][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.09.55:388][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall21)
+[2021.06.30-10.10.02:377][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scaling)
+[2021.06.30-10.10.09:532][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock25)
+[2021.06.30-10.10.14:507][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall21)
+[2021.06.30-10.10.16:313][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock25)
+[2021.06.30-10.10.19:799][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.10.25:056][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock25)
+[2021.06.30-10.10.29:129][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall51)
+[2021.06.30-10.10.38:218][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock25)
+[2021.06.30-10.10.40:308][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence15)
+[2021.06.30-10.10.46:065][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall22)
+[2021.06.30-10.10.46:852][548]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar3)
+[2021.06.30-10.11.04:852][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar1)
+[2021.06.30-10.11.15:573][268]Cmd: TRANSACTION UNDO
+[2021.06.30-10.11.15:573][268]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.11.23:070][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall4)
+[2021.06.30-10.11.50:695][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Well)
+[2021.06.30-10.11.54:440][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.12.01:014][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TotemFire)
+[2021.06.30-10.12.05:436][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.12.29:838][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall9)
+[2021.06.30-10.12.32:298][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar5)
+[2021.06.30-10.12.33:372][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall21)
+[2021.06.30-10.12.34:556][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall4)
+[2021.06.30-10.13.22:216][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall21)
+[2021.06.30-10.13.52:615][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall4)
+[2021.06.30-10.14.05:985][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence4)
+[2021.06.30-10.14.12:407][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.06.30-10.14.14:015][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.14.15:888][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.06.30-10.14.23:522][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall29)
+[2021.06.30-10.14.26:202][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall29)
+[2021.06.30-10.14.26:652][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.06.30-10.14.33:448][107]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.14.36:665][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.06.30-10.14.54:355][359]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.30-10.15.57:408][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall51)
+[2021.06.30-10.16.00:799][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall41)
+[2021.06.30-10.16.08:513][804]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.16.15:111][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock25)
+[2021.06.30-10.16.18:236][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall51)
+[2021.06.30-10.16.28:093][975]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.17.13:441][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall8)
+[2021.06.30-10.17.15:798][835]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-10.18.23:223][604]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 8X8)
+[2021.06.30-10.18.23:223][604]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 8X8)
+[2021.06.30-10.18.23:404][615]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 8X8)
+[2021.06.30-10.18.23:405][615]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 8X8)
+[2021.06.30-10.18.28:539][923]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 8X8)
+[2021.06.30-10.18.28:540][923]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 8X8)
+[2021.06.30-10.18.28:738][935]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 8X8)
+[2021.06.30-10.18.28:739][935]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 8X8)
+[2021.06.30-10.18.35:057][314]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 8X8)
+[2021.06.30-10.18.35:058][314]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 8X8)
+[2021.06.30-10.18.37:240][445]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 8X8)
+[2021.06.30-10.18.37:242][445]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 8X8)
+[2021.06.30-10.18.45:339][931]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 8X8)
+[2021.06.30-10.18.45:340][931]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 8X8)
+[2021.06.30-10.18.48:207][103]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 8X8)
+[2021.06.30-10.18.48:208][103]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 8X8)
+[2021.06.30-10.18.49:010][151]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 8X8)
+[2021.06.30-10.18.49:011][151]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 8X8)
+[2021.06.30-10.19.21:834][115]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 8X8)
+[2021.06.30-10.19.26:820][414]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 8X8)
+[2021.06.30-10.19.26:821][414]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 8X8)
+[2021.06.30-10.19.32:438][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall11)
+[2021.06.30-10.19.45:924][556]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-10.20.11:457][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.20.40:351][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock25)
+[2021.06.30-10.20.45:971][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock12)
+[2021.06.30-10.20.48:203][288]Cmd: DUPLICATE
+[2021.06.30-10.20.48:203][288]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.21.36:102][158]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 8X8)
+[2021.06.30-10.21.59:713][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock27)
+[2021.06.30-10.22.12:426][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall40)
+[2021.06.30-10.22.15:083][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock27)
+[2021.06.30-10.22.18:919][720]Cmd: DUPLICATE
+[2021.06.30-10.22.18:919][720]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.22.37:476][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock27)
+[2021.06.30-10.22.50:978][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock11)
+[2021.06.30-10.22.52:046][704]Cmd: DUPLICATE
+[2021.06.30-10.22.52:046][704]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.23.32:496][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock28)
+[2021.06.30-10.23.34:269][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock29)
+[2021.06.30-10.23.36:966][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall40)
+[2021.06.30-10.23.42:806][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock27)
+[2021.06.30-10.23.46:427][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock28)
+[2021.06.30-10.23.48:863][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.23.58:940][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall41)
+[2021.06.30-10.23.59:710][752]Cmd: DUPLICATE
+[2021.06.30-10.23.59:710][752]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.24.14:884][661]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.24.21:811][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall38)
+[2021.06.30-10.24.22:499][116]Cmd: DUPLICATE
+[2021.06.30-10.24.22:499][116]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.24.31:389][647]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.24.42:357][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vine1)
+[2021.06.30-10.24.44:558][435]Cmd: DUPLICATE
+[2021.06.30-10.24.44:558][435]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.25.04:712][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall36)
+[2021.06.30-10.25.08:085][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vine35)
+[2021.06.30-10.25.12:737][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.25.16:308][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vine35)
+[2021.06.30-10.25.19:099][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence37)
+[2021.06.30-10.25.21:354][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vine35)
+[2021.06.30-10.25.25:126][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence5)
+[2021.06.30-10.25.27:747][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.25.38:760][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vne3)
+[2021.06.30-10.25.40:029][751]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Vine2)
+[2021.06.30-10.25.42:367][890]Cmd: DUPLICATE
+[2021.06.30-10.25.42:367][890]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.25.57:189][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.25.59:056][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vine36)
+[2021.06.30-10.26.09:346][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.26.12:734][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vne17)
+[2021.06.30-10.26.19:645][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.26.24:804][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree1)
+[2021.06.30-10.26.25:423][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vine36)
+[2021.06.30-10.26.31:069][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.26.40:139][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vine36)
+[2021.06.30-10.26.42:341][475]Cmd: DUPLICATE
+[2021.06.30-10.26.42:341][475]Cmd: ACTOR DUPLICATE
+[2021.06.30-10.26.50:789][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.06.30-10.26.57:908][407]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-10.27.44:253][187]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-10.27.46:775][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.30-10.27.46:794][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.30-10.27.46:803][319]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 8X8)
+[2021.06.30-10.27.46:804][319]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 8X8)
+[2021.06.30-10.27.46:804][319]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 8X8)
+[2021.06.30-10.27.46:805][319]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 8X8)
+[2021.06.30-10.27.46:805][319]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 8X8)
+[2021.06.30-10.27.46:805][319]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 8X8)
+[2021.06.30-10.27.46:806][319]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 8X8)
+[2021.06.30-10.27.46:806][319]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 8X8)
+[2021.06.30-10.27.46:806][319]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 8X8)
+[2021.06.30-10.27.46:806][319]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 8X8)
+[2021.06.30-10.27.46:807][319]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 8X8)
+[2021.06.30-10.27.46:807][319]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 8X8)
+[2021.06.30-10.27.46:807][319]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 8X8)
+[2021.06.30-10.27.46:807][319]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 8X8)
+[2021.06.30-10.27.46:808][319]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 8X8)
+[2021.06.30-10.27.46:808][319]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 8X8)
+[2021.06.30-10.27.46:808][319]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 8X8)
+[2021.06.30-10.27.46:808][319]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 8X8)
+[2021.06.30-10.27.46:809][319]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 8X8)
+[2021.06.30-10.27.46:809][319]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 8X8)
+[2021.06.30-10.27.46:881][319]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevelD5D2ACF34F717B02F044F581E636969F.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/Levels/TutorialLevel.umap'
+[2021.06.30-10.27.46:904][319]LogFileHelpers: Saving map 'TutorialLevel' took 0.115
+[2021.06.30-10.27.46:917][319]AssetCheck: New page: Asset Save: TutorialLevel
+[2021.06.30-10.27.46:917][319]LogContentValidation: Display: Validating World /Game/Cianan/Levels/TutorialLevel.TutorialLevel
+[2021.06.30-10.27.59:108][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.30-10.28.01:053][134]LogContentBrowser: Deferred new asset file creation: TutorialLevel1
+[2021.06.30-10.28.01:060][134]LogContentBrowser: Creating deferred item: TutorialLevel1
+[2021.06.30-10.28.04:005][311]LogContentBrowser: Attempting asset rename: TutorialLevel1 -> TutorialLevel1
+[2021.06.30-10.28.04:054][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.30-10.28.04:066][311]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/Levels/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.28.04:066][311]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/Levels/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.28.04:077][311]LogContentBrowser: End creating deferred item TutorialLevel1
+[2021.06.30-10.28.07:407][506]LogMetaData: Removing '/Game/Kyle/TutorialLevel1.SKEL_TutorialLevel1_C' ref from Metadata '/Game/Cianan/Levels/TutorialLevel1.PackageMetaData'
+[2021.06.30-10.28.07:407][506]LogMetaData: Removing '/Game/Kyle/TutorialLevel1.TutorialLevel1_C' ref from Metadata '/Game/Cianan/Levels/TutorialLevel1.PackageMetaData'
+[2021.06.30-10.28.07:441][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.06.30-10.28.07:538][506]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevel19AD707F647D2D086752B898406CB576E.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevel1.umap'
+[2021.06.30-10.28.07:546][506]LogFileHelpers: Saving map 'TutorialLevel1' took 0.125
+[2021.06.30-10.28.07:601][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.30-10.28.07:613][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.30-10.28.07:618][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.06.30-10.28.07:660][506]AssetCheck: New page: Asset Save: TutorialLevel1
+[2021.06.30-10.28.07:660][506]LogContentValidation: Display: Validating World /Game/Kyle/TutorialLevel1.TutorialLevel1
+[2021.06.30-10.28.13:469][830]LogObjectTools: Deleting 1 worlds: /Game/Kyle/TutorialLevelTest.TutorialLevelTest
+[2021.06.30-10.28.13:469][830]LogObjectTools: Currently 3 active worlds: /Game/Cianan/Levels/TutorialLevel.TutorialLevel, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2021.06.30-10.28.13:474][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.30-10.28.16:636][830]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-10.28.21:234][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.30-10.28.21:251][106]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TutorialLevel1.TutorialLevel1
+[2021.06.30-10.28.21:251][106]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.28.21:251][106]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.21:251][106]LoadErrors: New page: Loading map: TutorialLevel1.umap
+[2021.06.30-10.28.21:280][106]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.28.21:288][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.28.21:289][106]MapCheck: New page: Map Check
+[2021.06.30-10.28.21:289][106]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.21:327][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.28.21:472][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.06.30-10.28.21:504][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.30-10.28.21:508][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.30-10.28.21:508][106]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel1'.
+[2021.06.30-10.28.21:571][106]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.28.21:571][106]LogAIModule: Creating AISystem for world TutorialLevel1
+[2021.06.30-10.28.21:579][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.30-10.28.21:582][106]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.28.21:583][106]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2021.06.30-10.28.21:583][106]LogFileHelpers: Loading map 'TutorialLevel1' took 0.332
+[2021.06.30-10.28.22:971][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.30-10.28.23:004][186]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.28.23:004][186]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.28.23:015][186]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TutorialLevelTest.TutorialLevelTest
+[2021.06.30-10.28.23:015][186]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.28.23:015][186]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.23:015][186]LoadErrors: New page: Loading map: TutorialLevelTest.umap
+[2021.06.30-10.28.23:017][186]LogWorld: UWorld::CleanupWorld for TutorialLevel1, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.28.23:017][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.28.23:017][186]MapCheck: New page: Map Check
+[2021.06.30-10.28.23:017][186]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.23:023][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.28.23:026][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.30-10.28.23:027][186]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelTest'.
+[2021.06.30-10.28.23:100][186]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.28.23:100][186]LogAIModule: Creating AISystem for world TutorialLevelTest
+[2021.06.30-10.28.23:107][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.30-10.28.23:110][186]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.28.23:110][186]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2021.06.30-10.28.23:110][186]LogFileHelpers: Loading map 'TutorialLevelTest' took 0.095
+[2021.06.30-10.28.26:970][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.30-10.28.27:005][403]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.28.27:005][403]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.28.27:014][403]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TutorialLevel1.TutorialLevel1
+[2021.06.30-10.28.27:014][403]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.28.27:014][403]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.27:014][403]LoadErrors: New page: Loading map: TutorialLevel1.umap
+[2021.06.30-10.28.27:042][403]LogWorld: UWorld::CleanupWorld for TutorialLevelTest, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.28.27:042][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.28.27:042][403]MapCheck: New page: Map Check
+[2021.06.30-10.28.27:042][403]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.27:048][403]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.28.27:052][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.30-10.28.27:052][403]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel1'.
+[2021.06.30-10.28.27:117][403]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.28.27:117][403]LogAIModule: Creating AISystem for world TutorialLevel1
+[2021.06.30-10.28.27:125][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.30-10.28.27:128][403]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.28.27:129][403]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2021.06.30-10.28.27:129][403]LogFileHelpers: Loading map 'TutorialLevel1' took 0.115
+[2021.06.30-10.28.34:051][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.30-10.28.34:090][814]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.28.34:090][814]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.28.34:098][814]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TutorialLevelTest.TutorialLevelTest
+[2021.06.30-10.28.34:098][814]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.28.34:098][814]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.34:098][814]LoadErrors: New page: Loading map: TutorialLevelTest.umap
+[2021.06.30-10.28.34:122][814]LogWorld: UWorld::CleanupWorld for TutorialLevel1, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.28.34:122][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.28.34:122][814]MapCheck: New page: Map Check
+[2021.06.30-10.28.34:122][814]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.34:128][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.28.34:131][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.30-10.28.34:132][814]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelTest'.
+[2021.06.30-10.28.34:202][814]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.28.34:202][814]LogAIModule: Creating AISystem for world TutorialLevelTest
+[2021.06.30-10.28.34:209][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.30-10.28.34:213][814]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.28.34:213][814]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2021.06.30-10.28.34:213][814]LogFileHelpers: Loading map 'TutorialLevelTest' took 0.115
+[2021.06.30-10.28.39:266][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.06.30-10.28.39:304][115]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.28.39:304][115]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.28.39:313][115]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TutorialLevel1.TutorialLevel1
+[2021.06.30-10.28.39:313][115]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.28.39:313][115]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.39:313][115]LoadErrors: New page: Loading map: TutorialLevel1.umap
+[2021.06.30-10.28.39:315][115]LogWorld: UWorld::CleanupWorld for TutorialLevelTest, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.28.39:316][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.28.39:316][115]MapCheck: New page: Map Check
+[2021.06.30-10.28.39:316][115]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.39:322][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.28.39:327][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.30-10.28.39:328][115]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel1'.
+[2021.06.30-10.28.39:389][115]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.28.39:389][115]LogAIModule: Creating AISystem for world TutorialLevel1
+[2021.06.30-10.28.39:397][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.30-10.28.39:400][115]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.28.39:400][115]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2021.06.30-10.28.39:400][115]LogFileHelpers: Loading map 'TutorialLevel1' took 0.087
+[2021.06.30-10.28.41:154][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.06.30-10.28.41:188][218]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.28.41:188][218]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.28.41:196][218]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TutorialLevelTest.TutorialLevelTest
+[2021.06.30-10.28.41:196][218]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.28.41:196][218]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.41:196][218]LoadErrors: New page: Loading map: TutorialLevelTest.umap
+[2021.06.30-10.28.41:198][218]LogWorld: UWorld::CleanupWorld for TutorialLevel1, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.28.41:198][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.28.41:199][218]MapCheck: New page: Map Check
+[2021.06.30-10.28.41:199][218]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.41:204][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.28.41:209][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.30-10.28.41:209][218]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelTest'.
+[2021.06.30-10.28.41:275][218]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.28.41:275][218]LogAIModule: Creating AISystem for world TutorialLevelTest
+[2021.06.30-10.28.41:283][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.30-10.28.41:286][218]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.28.41:287][218]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2021.06.30-10.28.41:287][218]LogFileHelpers: Loading map 'TutorialLevelTest' took 0.090
+[2021.06.30-10.28.43:446][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.06.30-10.28.43:479][345]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.28.43:479][345]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.28.43:487][345]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TutorialLevel1.TutorialLevel1
+[2021.06.30-10.28.43:487][345]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.28.43:487][345]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.43:487][345]LoadErrors: New page: Loading map: TutorialLevel1.umap
+[2021.06.30-10.28.43:490][345]LogWorld: UWorld::CleanupWorld for TutorialLevelTest, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.28.43:490][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.28.43:490][345]MapCheck: New page: Map Check
+[2021.06.30-10.28.43:490][345]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.43:495][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.28.43:500][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.30-10.28.43:501][345]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel1'.
+[2021.06.30-10.28.43:563][345]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.28.43:563][345]LogAIModule: Creating AISystem for world TutorialLevel1
+[2021.06.30-10.28.43:570][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.30-10.28.43:574][345]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.28.43:574][345]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2021.06.30-10.28.43:574][345]LogFileHelpers: Loading map 'TutorialLevel1' took 0.086
+[2021.06.30-10.28.46:349][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.30-10.28.46:389][509]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.28.46:390][509]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.28.46:398][509]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TutorialLevelTest.TutorialLevelTest
+[2021.06.30-10.28.46:398][509]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.28.46:398][509]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.46:398][509]LoadErrors: New page: Loading map: TutorialLevelTest.umap
+[2021.06.30-10.28.46:400][509]LogWorld: UWorld::CleanupWorld for TutorialLevel1, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.28.46:400][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.28.46:401][509]MapCheck: New page: Map Check
+[2021.06.30-10.28.46:401][509]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.46:405][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.28.46:410][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.30-10.28.46:410][509]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelTest'.
+[2021.06.30-10.28.46:479][509]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.28.46:479][509]LogAIModule: Creating AISystem for world TutorialLevelTest
+[2021.06.30-10.28.46:488][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.06.30-10.28.46:491][509]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.28.46:491][509]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2021.06.30-10.28.46:491][509]LogFileHelpers: Loading map 'TutorialLevelTest' took 0.093
+[2021.06.30-10.28.47:566][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.30-10.28.47:602][571]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.28.47:602][571]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.28.47:611][571]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TutorialLevel1.TutorialLevel1
+[2021.06.30-10.28.47:611][571]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.28.47:611][571]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.47:611][571]LoadErrors: New page: Loading map: TutorialLevel1.umap
+[2021.06.30-10.28.47:614][571]LogWorld: UWorld::CleanupWorld for TutorialLevelTest, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.28.47:614][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.28.47:614][571]MapCheck: New page: Map Check
+[2021.06.30-10.28.47:614][571]LightingResults: New page: Lighting Build
+[2021.06.30-10.28.47:620][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.28.47:625][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.30-10.28.47:626][571]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel1'.
+[2021.06.30-10.28.47:688][571]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.28.47:688][571]LogAIModule: Creating AISystem for world TutorialLevel1
+[2021.06.30-10.28.47:695][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.30-10.28.47:699][571]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.28.47:699][571]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2021.06.30-10.28.47:699][571]LogFileHelpers: Loading map 'TutorialLevel1' took 0.089
+[2021.06.30-10.29.12:101][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.06.30-10.29.12:135][ 32]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/Levels/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.29.12:135][ 32]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/Levels/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.29.12:143][ 32]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/Levels/TutorialLevel.TutorialLevel
+[2021.06.30-10.29.12:143][ 32]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/Levels/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.29.12:143][ 32]LightingResults: New page: Lighting Build
+[2021.06.30-10.29.12:143][ 32]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.30-10.29.12:146][ 32]LogWorld: UWorld::CleanupWorld for TutorialLevel1, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.29.12:146][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.29.12:146][ 32]MapCheck: New page: Map Check
+[2021.06.30-10.29.12:146][ 32]LightingResults: New page: Lighting Build
+[2021.06.30-10.29.12:151][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.29.12:155][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.30-10.29.12:156][ 32]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.30-10.29.12:220][ 32]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.29.12:220][ 32]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.30-10.29.12:229][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.30-10.29.12:232][ 32]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.29.12:232][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2021.06.30-10.29.12:232][ 32]LogFileHelpers: Loading map 'TutorialLevel' took 0.089
+[2021.06.30-10.29.16:936][310]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.29.16:936][310]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevel1.TutorialLevel1:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.29.16:966][310]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.29.16:966][310]LogPhysics: Warning: Attempt to build physics data for /Game/Kyle/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.29.18:215][383]LogObjectTools: Deleting 2 worlds: /Game/Kyle/TutorialLevel1.TutorialLevel1, /Game/Kyle/TutorialLevelTest.TutorialLevelTest
+[2021.06.30-10.29.18:215][383]LogObjectTools: Currently 3 active worlds: /Game/Cianan/Levels/TutorialLevel.TutorialLevel, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2021.06.30-10.29.18:223][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.30-10.29.19:835][383]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-10.29.19:849][383]LogWorld: UWorld::CleanupWorld for TutorialLevel1, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.29.19:849][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.29.19:854][383]LogWorld: UWorld::CleanupWorld for TutorialLevelTest, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.29.19:854][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.29.19:906][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.06.30-10.29.19:912][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.06.30-10.29.19:921][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.30-10.29.19:926][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.30-10.29.22:725][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.06.30-10.29.23:164][551]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kyle/TestLevel.TestLevel
+[2021.06.30-10.29.23:164][551]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.29.23:164][551]LightingResults: New page: Lighting Build
+[2021.06.30-10.29.23:164][551]LoadErrors: New page: Loading map: TestLevel.umap
+[2021.06.30-10.29.23:167][551]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.29.23:167][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.29.23:167][551]MapCheck: New page: Map Check
+[2021.06.30-10.29.23:167][551]LightingResults: New page: Lighting Build
+[2021.06.30-10.29.23:173][551]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.29.23:186][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.30-10.29.23:186][551]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2021.06.30-10.29.23:291][551]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.29.23:291][551]LogAIModule: Creating AISystem for world TestLevel
+[2021.06.30-10.29.23:311][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.06.30-10.29.23:314][551]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.29.23:315][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.207ms to complete.
+[2021.06.30-10.29.23:315][551]LogFileHelpers: Loading map 'TestLevel' took 0.150
+[2021.06.30-10.29.24:803][631]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-10.29.24:913][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-10.29.24:948][631]PIE: New page: PIE session: TestLevel (30 Jun 2021, 12:29:24)
+[2021.06.30-10.29.25:087][631]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.30-10.29.25:104][631]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.30-10.29.25:125][631]LogPlayLevel: Creating play world package: /Game/Kyle/UEDPIE_0_TestLevel
+[2021.06.30-10.29.25:206][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080957s)
+[2021.06.30-10.29.25:220][631]LogAIModule: Creating AISystem for world TestLevel
+[2021.06.30-10.29.25:238][631]LogPlayLevel: PIE: World Init took: (0.031392s)
+[2021.06.30-10.29.25:238][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kyle/TestLevel.TestLevel to /Game/Kyle/UEDPIE_0_TestLevel.TestLevel (0.112569s)
+[2021.06.30-10.29.25:243][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.30-10.29.25:287][631]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.30-10.29.25:287][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-10.29.25:287][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-10.29.25:287][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-10.29.25:287][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-10.29.25:287][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-10.29.25:287][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-10.29.25:287][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-10.29.25:287][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-10.29.25:288][631]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-10.29.25:288][631]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-10.29.25:291][631]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-10.29.25:291][631]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-10.29.25:429][631]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.30-10.29.25:429][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-10.29.25:429][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-10.29.25:429][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-10.29.25:430][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-10.29.25:430][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-10.29.25:430][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-10.29.25:442][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-10.29.25:443][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-10.29.25:443][631]LogInit: FAudioDevice initialized.
+[2021.06.30-10.29.25:443][631]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestLevel'.
+[2021.06.30-10.29.25:452][631]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-10.29.25:559][631]LogWorld: Bringing World /Game/Kyle/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2021.06.30-11.29.25
+[2021.06.30-10.29.25:629][631]LogWorld: Bringing up level for play took: 0.073997
+[2021.06.30-10.29.25:653][631]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.06.30-10.29.25:792][631]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.06.30-10.29.25:813][631]PIE: Server logged in
+[2021.06.30-10.29.25:825][631]PIE: Play in editor total start time 1.018 seconds.
+[2021.06.30-10.29.28:300][760]LogRenderer: Reallocating scene render targets to support 1460x600 Format 10 NumSamples 1 (Frame:124).
+[2021.06.30-10.29.28:325][761]LogRenderer: Reallocating scene render targets to support 1460x608 Format 10 NumSamples 1 (Frame:125).
+[2021.06.30-10.29.28:350][762]LogRenderer: Reallocating scene render targets to support 1460x616 Format 10 NumSamples 1 (Frame:126).
+[2021.06.30-10.29.37:983][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-10.29.37:983][335]LogWorld: BeginTearingDown for /Game/Kyle/UEDPIE_0_TestLevel
+[2021.06.30-10.29.38:027][335]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.29.38:028][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.29.38:076][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-10.29.38:078][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.29.38:083][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.29.38:124][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-10.29.38:125][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-10.29.38:170][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-10.29.38:241][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.30-10.29.38:258][336]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.06.30-10.29.44:633][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.30-10.29.44:722][707]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.06.30-10.29.44:723][707]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.29.44:723][707]LightingResults: New page: Lighting Build
+[2021.06.30-10.29.44:723][707]LoadErrors: New page: Loading map: MainAreaLevel.umap
+[2021.06.30-10.29.44:725][707]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.29.44:725][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.29.44:725][707]MapCheck: New page: Map Check
+[2021.06.30-10.29.44:725][707]LightingResults: New page: Lighting Build
+[2021.06.30-10.29.44:731][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.29.44:756][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.30-10.29.44:756][707]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainAreaLevel'.
+[2021.06.30-10.29.44:844][707]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.29.44:844][707]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.06.30-10.29.44:861][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.30-10.29.44:865][707]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.29.44:865][707]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.216ms to complete.
+[2021.06.30-10.29.44:865][707]LogFileHelpers: Loading map 'MainAreaLevel' took 0.143
+[2021.06.30-10.29.56:891][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.06.30-10.29.56:927][425]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/Levels/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.29.56:927][425]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/Levels/TutorialLevel.TutorialLevel:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.29.56:936][425]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/Levels/TutorialLevel.TutorialLevel
+[2021.06.30-10.29.56:936][425]Cmd: MAP LOAD FILE="C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/Levels/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-10.29.56:936][425]LightingResults: New page: Lighting Build
+[2021.06.30-10.29.56:936][425]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2021.06.30-10.29.56:962][425]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-10.29.56:962][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-10.29.56:962][425]MapCheck: New page: Map Check
+[2021.06.30-10.29.56:962][425]LightingResults: New page: Lighting Build
+[2021.06.30-10.29.56:969][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-10.29.56:973][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.30-10.29.56:973][425]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2021.06.30-10.29.57:035][425]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-10.29.57:035][425]LogAIModule: Creating AISystem for world TutorialLevel
+[2021.06.30-10.29.57:045][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.30-10.29.57:048][425]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-10.29.57:048][425]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2021.06.30-10.29.57:049][425]LogFileHelpers: Loading map 'TutorialLevel' took 0.113
+[2021.06.30-10.30.09:001][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall52)
+[2021.06.30-10.30.34:803][686]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-10.30.40:006][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall52)
+[2021.06.30-10.30.44:099][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2021.06.30-10.31.02:945][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OuterWall52)
+[2021.06.30-10.31.13:834][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.30-10.31.46:647][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.06.30-10.31.46:663][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.06.30-10.31.46:742][990]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevel4953C5A245BA5B5824091C90E339D27F.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/Levels/TutorialLevel.umap'
+[2021.06.30-10.31.46:747][990]LogFileHelpers: Saving map 'TutorialLevel' took 0.089
+[2021.06.30-10.31.46:755][990]AssetCheck: New page: Asset Save: TutorialLevel
+[2021.06.30-10.31.46:756][990]LogContentValidation: Display: Validating World /Game/Cianan/Levels/TutorialLevel.TutorialLevel
+[2021.06.30-10.31.50:872][236]LogContentBrowser: Deferred new asset file creation: TutorialLevel1
+[2021.06.30-10.31.50:878][236]LogContentBrowser: Creating deferred item: TutorialLevel1
+[2021.06.30-10.31.54:206][436]LogContentBrowser: Attempting asset rename: TutorialLevel1 -> TutorialLevelTest
+[2021.06.30-10.31.54:250][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.06.30-10.31.54:260][436]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Cianan/Levels/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439' invalid (96 verts, 0 indices).
+[2021.06.30-10.31.54:260][436]LogPhysics: Warning: Attempt to build physics data for /Game/Cianan/Levels/TutorialLevelTest.TutorialLevelTest:PersistentLevel.ModelComponent_439.BodySetup_0 when we are unable to.
+[2021.06.30-10.31.54:271][436]LogContentBrowser: End creating deferred item TutorialLevel1
+[2021.06.30-10.32.01:699][862]LogMetaData: Removing '/Game/Kyle/TutorialLevelTest.SKEL_TutorialLevelTest_C' ref from Metadata '/Game/Cianan/Levels/TutorialLevelTest.PackageMetaData'
+[2021.06.30-10.32.01:699][862]LogMetaData: Removing '/Game/Kyle/TutorialLevelTest.TutorialLevelTest_C' ref from Metadata '/Game/Cianan/Levels/TutorialLevelTest.PackageMetaData'
+[2021.06.30-10.32.01:730][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.30-10.32.01:811][862]LogSavePackage: Moving 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/TutorialLevelTestA884534945CBE19F90C6758EC4AED1AE.tmp' to 'C:/Users/Ciana/Dropbox/My PC (LAPTOP-43U9HUHF)/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Kyle/TutorialLevelTest.umap'
+[2021.06.30-10.32.01:817][862]LogFileHelpers: Saving map 'TutorialLevelTest' took 0.103
+[2021.06.30-10.32.01:858][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.30-10.32.01:868][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.06.30-10.32.01:872][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.06.30-10.32.01:900][862]AssetCheck: New page: Asset Save: TutorialLevelTest
+[2021.06.30-10.32.01:900][862]LogContentValidation: Display: Validating World /Game/Kyle/TutorialLevelTest.TutorialLevelTest
+[2021.06.30-10.32.06:884][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.06.30-10.32.14:291][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
