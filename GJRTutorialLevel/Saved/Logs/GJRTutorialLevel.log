@@ -599,3 +599,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-08.43.03:001][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
 [2021.06.30-08.43.03:035][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
 [2021.06.30-08.43.03:580][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.30-08.43.04:161][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.30-08.43.04:222][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.30-08.43.04:270][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.30-08.43.04:270][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.30-08.43.04:290][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-08.43.04:290][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-08.43.04:290][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-08.43.04:290][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-08.43.04:290][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-08.43.04:290][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-08.43.04:290][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-08.43.04:290][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-08.43.04:315][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-08.43.04:315][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-08.43.04:457][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-08.43.04:457][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-08.43.04:648][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.30-08.43.04:664][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-08.43.04:736][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-08.43.04:736][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-08.43.04:738][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-08.43.04:738][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-08.43.04:738][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-08.43.04:739][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-08.43.04:739][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-08.43.04:739][  0]LogInit: FAudioDevice initialized.
+[2021.06.30-08.43.04:740][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.30-08.43.04:776][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.30-08.43.04:827][  0]LogDerivedDataCache: Saved boot cache 0.05s 81MB C:/Users/Ciana/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.30-08.43.04:828][  0]LogInit: Texture streaming: Enabled
+[2021.06.30-08.43.05:006][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.30-08.43.05:049][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.30-08.43.05:049][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.30-08.43.05:075][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.30-08.43.05:438][  0]LogInit: Transaction tracking system initialized
+[2021.06.30-08.43.05:753][  0]BlueprintLog: New page: Editor Load
+[2021.06.30-08.43.06:902][  0]LocalizationService: Localization service is disabled
+[2021.06.30-08.43.07:299][  0]TimingProfiler: Initialize
+[2021.06.30-08.43.07:304][  0]TimingProfiler: OnSessionChanged
+[2021.06.30-08.43.07:305][  0]LoadingProfiler: Initialize
+[2021.06.30-08.43.07:306][  0]LoadingProfiler: OnSessionChanged
+[2021.06.30-08.43.07:306][  0]NetworkingProfiler: Initialize
+[2021.06.30-08.43.07:307][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.30-08.43.07:307][  0]MemoryProfiler: Initialize
+[2021.06.30-08.43.07:307][  0]MemoryProfiler: OnSessionChanged
