@@ -1582,3 +1582,746 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.02-14.00.40:372][205]AssetCheck: New page: Asset Save: Vine1
 [2021.07.02-14.00.40:372][205]LogContentValidation: Display: Validating StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Folliage/Vine1.Vine1
 [2021.07.02-15.48.03:894][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.07.02-16.03.34:705][535]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-16.03.34:712][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-16.03.34:712][535]PIE: New page: PIE session: MainAreaLevel (2 Jul 2021, 18:03:34)
+[2021.07.02-16.03.34:743][535]LogPlayLevel: Creating play world package: /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.03.34:781][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037480s)
+[2021.07.02-16.03.34:782][535]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.07.02-16.03.34:782][535]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2021.07.02-16.03.34:782][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel to /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel (0.038915s)
+[2021.07.02-16.03.34:796][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.07.02-16.03.34:803][535]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.07.02-16.03.34:803][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-16.03.34:803][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-16.03.34:803][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-16.03.34:803][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-16.03.34:803][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-16.03.34:803][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-16.03.34:803][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-16.03.34:803][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-16.03.34:803][535]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-16.03.34:803][535]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-16.03.34:811][535]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-16.03.34:811][535]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-16.03.34:822][535]LogAudioMixer: Display: Using Audio Device Speakers (         TX-70        )
+[2021.07.02-16.03.34:823][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-16.03.34:823][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-16.03.34:823][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-16.03.34:824][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-16.03.34:824][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-16.03.34:824][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-16.03.34:833][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-16.03.34:833][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-16.03.34:833][535]LogInit: FAudioDevice initialized.
+[2021.07.02-16.03.34:833][535]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainAreaLevel'.
+[2021.07.02-16.03.34:839][535]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.02-16.03.34:847][535]LogWorld: Bringing World /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel up for play (max tick rate 0) at 2021.07.02-17.03.34
+[2021.07.02-16.03.34:847][535]LogWorld: Bringing up level for play took: 0.008108
+[2021.07.02-16.03.34:847][535]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.07.02-16.03.34:851][535]PIE: Server logged in
+[2021.07.02-16.03.34:851][535]PIE: Play in editor total start time 0.141 seconds.
+[2021.07.02-16.03.38:165][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.03.38:165][924]LogWorld: BeginTearingDown for /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.03.38:165][924]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.03.38:166][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.03.38:172][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-16.03.38:180][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.03.38:193][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.03.38:193][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.03.38:194][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.03.38:209][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.07.02-16.03.38:240][925]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.07.02-16.04.12:455][377]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2021.07.02-16.04.13:332][461]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.07.02-16.04.14:478][595]LogEditorViewport: Clicking on Actor (LMB): Sign_BP_C (Sign_BP5)
+[2021.07.02-16.04.23:054][597]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-16.04.23:061][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-16.04.23:061][597]PIE: New page: PIE session: MainAreaLevel (2 Jul 2021, 18:04:23)
+[2021.07.02-16.04.23:084][597]LogPlayLevel: Creating play world package: /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.04.23:118][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034451s)
+[2021.07.02-16.04.23:119][597]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.07.02-16.04.23:119][597]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2021.07.02-16.04.23:119][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel to /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel (0.035413s)
+[2021.07.02-16.04.23:133][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.07.02-16.04.23:140][597]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.07.02-16.04.23:140][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-16.04.23:140][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-16.04.23:140][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-16.04.23:140][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-16.04.23:140][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-16.04.23:140][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-16.04.23:140][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-16.04.23:140][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-16.04.23:141][597]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-16.04.23:141][597]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-16.04.23:148][597]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-16.04.23:148][597]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-16.04.23:158][597]LogAudioMixer: Display: Using Audio Device Speakers (         TX-70        )
+[2021.07.02-16.04.23:159][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-16.04.23:159][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-16.04.23:159][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-16.04.23:159][597]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-16.04.23:159][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-16.04.23:159][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-16.04.23:168][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-16.04.23:168][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-16.04.23:168][597]LogInit: FAudioDevice initialized.
+[2021.07.02-16.04.23:168][597]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainAreaLevel'.
+[2021.07.02-16.04.23:177][597]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.02-16.04.23:184][597]LogWorld: Bringing World /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel up for play (max tick rate 0) at 2021.07.02-17.04.23
+[2021.07.02-16.04.23:185][597]LogWorld: Bringing up level for play took: 0.007613
+[2021.07.02-16.04.23:185][597]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.07.02-16.04.23:188][597]PIE: Server logged in
+[2021.07.02-16.04.23:188][597]PIE: Play in editor total start time 0.129 seconds.
+[2021.07.02-16.04.45:694][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.04.45:694][289]LogWorld: BeginTearingDown for /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.04.45:695][289]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.04.45:696][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.04.45:705][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-16.04.45:714][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.04.45:726][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.04.45:726][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.04.45:727][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.04.45:738][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.04.45:741][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.07.02-16.04.45:775][290]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.07.02-16.05.35:494][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.07.02-16.05.35:524][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.02-16.05.35:768][328]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/MainAreaLevel83EEA51B46E9341C271E2FAA00C115F3.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap'
+[2021.07.02-16.05.35:777][328]LogFileHelpers: Saving map 'MainAreaLevel' took 0.266
+[2021.07.02-16.05.35:787][328]AssetCheck: New page: Asset Save: MainAreaLevel
+[2021.07.02-16.05.35:787][328]LogContentValidation: Display: Validating World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.07.02-16.05.58:895][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock12)
+[2021.07.02-16.05.59:617][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RockFlat2)
+[2021.07.02-16.06.04:445][788]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Rocks/RockFlat1.RockFlat1
+[2021.07.02-16.06.14:985][976]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/RockFlat1CB91FBC84EE16205FC05BABF326710EF.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/All_Assets/Rocks/RockFlat1.uasset'
+[2021.07.02-16.06.14:994][976]AssetCheck: New page: Asset Save: RockFlat1
+[2021.07.02-16.06.14:994][976]LogContentValidation: Display: Validating StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Rocks/RockFlat1.RockFlat1
+[2021.07.02-16.06.16:390][119]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Rocks/RockFlat2.RockFlat2
+[2021.07.02-16.06.24:215][  1]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/RockFlat2E37F7DA442F4FA8432329CB7185C7D53.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/All_Assets/Rocks/RockFlat2.uasset'
+[2021.07.02-16.06.24:225][  1]AssetCheck: New page: Asset Save: RockFlat2
+[2021.07.02-16.06.24:225][  1]LogContentValidation: Display: Validating StaticMesh /Game/Elliott_MainAreaLevel/All_Assets/Rocks/RockFlat2.RockFlat2
+[2021.07.02-16.06.25:342][131]LogSlate: Window 'RockFlat2' being destroyed
+[2021.07.02-16.06.25:344][131]LogSlate: Window 'RockFlat2' being destroyed
+[2021.07.02-16.06.25:349][131]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.06.25:349][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.06.25:388][131]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.06.25:388][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.06.26:551][262]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-16.06.26:558][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-16.06.26:558][262]PIE: New page: PIE session: MainAreaLevel (2 Jul 2021, 18:06:26)
+[2021.07.02-16.06.26:583][262]LogPlayLevel: Creating play world package: /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.06.26:617][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033002s)
+[2021.07.02-16.06.26:617][262]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.07.02-16.06.26:617][262]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2021.07.02-16.06.26:617][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel to /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel (0.033929s)
+[2021.07.02-16.06.26:633][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.07.02-16.06.26:640][262]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.07.02-16.06.26:640][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-16.06.26:641][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-16.06.26:641][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-16.06.26:641][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-16.06.26:641][262]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-16.06.26:641][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-16.06.26:641][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-16.06.26:641][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-16.06.26:641][262]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-16.06.26:641][262]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-16.06.26:648][262]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-16.06.26:648][262]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-16.06.26:659][262]LogAudioMixer: Display: Using Audio Device Speakers (         TX-70        )
+[2021.07.02-16.06.26:659][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-16.06.26:659][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-16.06.26:659][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-16.06.26:659][262]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-16.06.26:659][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-16.06.26:659][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-16.06.26:669][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-16.06.26:669][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-16.06.26:669][262]LogInit: FAudioDevice initialized.
+[2021.07.02-16.06.26:669][262]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainAreaLevel'.
+[2021.07.02-16.06.26:679][262]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.02-16.06.26:687][262]LogWorld: Bringing World /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel up for play (max tick rate 0) at 2021.07.02-17.06.26
+[2021.07.02-16.06.26:687][262]LogWorld: Bringing up level for play took: 0.007551
+[2021.07.02-16.06.26:687][262]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.07.02-16.06.26:690][262]PIE: Server logged in
+[2021.07.02-16.06.26:691][262]PIE: Play in editor total start time 0.134 seconds.
+[2021.07.02-16.06.47:364][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.06.47:364][733]LogWorld: BeginTearingDown for /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.06.47:365][733]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.06.47:366][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.06.47:376][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-16.06.47:388][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.06.47:401][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.06.47:401][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.06.47:402][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.06.47:413][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.06.47:416][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.07.02-16.06.47:454][734]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.07.02-16.15.56:590][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.07.02-16.15.56:851][545]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/MainAreaLevel_Auto27C23BA084E70D35BB9AADA81AE7A81CB.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/Autosaves/Game/Elliott_MainAreaLevel/MainAreaLevel_Auto2.umap'
+[2021.07.02-16.15.56:854][545]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Elliott_MainAreaLevel/MainAreaLevel' took 0.278
+[2021.07.02-16.15.56:854][545]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.278
+[2021.07.02-16.18.02:011][ 73]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.07.02-16.18.50:534][104]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.07.02-16.18.51:669][231]LogRenderer: Reallocating scene render targets to support 1616x996 Format 10 NumSamples 1 (Frame:1361).
+[2021.07.02-16.18.51:744][235]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.07.02-16.19.05:881][885]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.02-16.19.05:916][886]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 34
+[2021.07.02-16.19.05:916][886]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 31
+[2021.07.02-16.19.05:916][886]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 28
+[2021.07.02-16.19.05:916][886]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 25
+[2021.07.02-16.19.05:916][886]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 22
+[2021.07.02-16.19.05:916][886]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 19
+[2021.07.02-16.19.05:916][886]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 16
+[2021.07.02-16.19.05:916][886]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 13
+[2021.07.02-16.19.05:917][886]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 10
+[2021.07.02-16.19.05:917][886]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 7
+[2021.07.02-16.19.05:917][886]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 4
+[2021.07.02-16.19.05:917][886]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2021.07.02-16.19.05:943][886]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.02-16.19.05:994][887]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.02-16.19.06:039][888]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.02-16.19.06:056][888]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 68
+[2021.07.02-16.19.06:056][888]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 63
+[2021.07.02-16.19.06:056][888]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 58
+[2021.07.02-16.19.06:056][888]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 53
+[2021.07.02-16.19.06:548][918]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 82
+[2021.07.02-16.19.06:941][941]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 76
+[2021.07.02-16.19.07:144][951]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 71
+[2021.07.02-16.19.07:210][953]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 66
+[2021.07.02-16.19.07:267][954]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 61
+[2021.07.02-16.19.07:323][956]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 57
+[2021.07.02-16.19.07:348][957]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 53
+[2021.07.02-16.19.07:404][959]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 49
+[2021.07.02-16.19.07:432][960]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 45
+[2021.07.02-16.19.07:540][963]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 42
+[2021.07.02-16.19.07:676][972]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 39
+[2021.07.02-16.19.07:916][988]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 36
+[2021.07.02-16.19.08:101][  2]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 33
+[2021.07.02-16.19.08:232][  9]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 30
+[2021.07.02-16.19.08:489][ 27]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 28
+[2021.07.02-16.19.08:603][ 35]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 26
+[2021.07.02-16.19.08:631][ 37]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 24
+[2021.07.02-16.19.08:645][ 38]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 22
+[2021.07.02-16.19.08:658][ 39]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 20
+[2021.07.02-16.19.08:738][ 45]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 18
+[2021.07.02-16.19.08:738][ 45]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 16
+[2021.07.02-16.19.08:754][ 46]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 14
+[2021.07.02-16.19.08:754][ 46]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 13
+[2021.07.02-16.19.08:921][ 56]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 12
+[2021.07.02-16.19.08:976][ 59]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 11
+[2021.07.02-16.19.08:976][ 59]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 10
+[2021.07.02-16.19.09:060][ 64]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 9
+[2021.07.02-16.19.09:075][ 65]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 8
+[2021.07.02-16.19.09:153][ 70]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 7
+[2021.07.02-16.19.09:201][ 73]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 6
+[2021.07.02-16.19.09:233][ 75]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 5
+[2021.07.02-16.19.09:268][ 77]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2021.07.02-16.19.09:285][ 78]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 3
+[2021.07.02-16.19.09:409][ 85]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 2
+[2021.07.02-16.19.09:441][ 87]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2021.07.02-16.21.07:151][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/Interactables.Interactables
+[2021.07.02-16.21.10:566][141]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.21.10:566][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.21.39:060][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.07.02-16.21.40:559][503]LogSlate: Window 'Save Content' being destroyed
+[2021.07.02-16.21.40:652][503]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/FirstPersonCharacter33000611452E75BB1DA0E88E94A80A5D.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.07.02-16.21.40:671][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.07.02-16.21.40:914][503]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/MainAreaLevelEAA260FE44DF62ACEEE06B982EA8BAA1.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap'
+[2021.07.02-16.21.40:924][503]LogFileHelpers: Saving map 'MainAreaLevel' took 0.270
+[2021.07.02-16.21.41:100][503]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/Levels/TutorialLevelGame.TutorialLevelGame
+[2021.07.02-16.21.41:100][503]Cmd: MAP LOAD FILE="C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/Levels/TutorialLevelGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.02-16.21.41:100][503]LightingResults: New page: Lighting Build
+[2021.07.02-16.21.41:100][503]LoadErrors: New page: Loading map: TutorialLevelGame.umap
+[2021.07.02-16.21.41:145][503]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.21.41:145][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.21.41:145][503]MapCheck: New page: Map Check
+[2021.07.02-16.21.41:145][503]LightingResults: New page: Lighting Build
+[2021.07.02-16.21.41:162][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.21.41:175][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.07.02-16.21.41:179][503]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelGame'.
+[2021.07.02-16.21.41:283][503]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.02-16.21.41:283][503]LogAIModule: Creating AISystem for world TutorialLevelGame
+[2021.07.02-16.21.41:303][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.07.02-16.21.41:311][503]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.02-16.21.41:312][503]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.07.02-16.21.41:312][503]LogFileHelpers: Loading map 'TutorialLevelGame' took 0.212
+[2021.07.02-16.21.41:326][503]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.02-16.21.41:326][503]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.07.02-16.21.41:326][503]LogContentValidation: Display: Validating World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.07.02-16.21.43:050][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.07.02-16.21.43:086][685]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 8X8)
+[2021.07.02-16.21.43:086][685]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 8X8)
+[2021.07.02-16.21.43:086][685]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 8X8)
+[2021.07.02-16.21.43:086][685]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 8X8)
+[2021.07.02-16.21.43:095][685]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/Levels/TutorialLevelDesign.TutorialLevelDesign
+[2021.07.02-16.21.43:096][685]Cmd: MAP LOAD FILE="C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/Levels/TutorialLevelDesign.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.02-16.21.43:096][685]LightingResults: New page: Lighting Build
+[2021.07.02-16.21.43:096][685]LoadErrors: New page: Loading map: TutorialLevelDesign.umap
+[2021.07.02-16.21.43:123][685]LogWorld: UWorld::CleanupWorld for TutorialLevelGame, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.21.43:124][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.21.43:124][685]MapCheck: New page: Map Check
+[2021.07.02-16.21.43:124][685]LightingResults: New page: Lighting Build
+[2021.07.02-16.21.43:141][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.21.43:146][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.07.02-16.21.43:165][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.07.02-16.21.43:180][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.07.02-16.21.43:180][685]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelDesign'.
+[2021.07.02-16.21.43:263][685]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.02-16.21.43:263][685]LogAIModule: Creating AISystem for world TutorialLevelDesign
+[2021.07.02-16.21.43:283][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.07.02-16.21.43:291][685]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.02-16.21.43:291][685]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2021.07.02-16.21.43:291][685]LogFileHelpers: Loading map 'TutorialLevelDesign' took 0.196
+[2021.07.02-16.21.49:222][371]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-16.21.49:229][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-16.21.49:229][371]PIE: New page: PIE session: TutorialLevelDesign (2 Jul 2021, 18:21:49)
+[2021.07.02-16.21.49:263][371]LogPlayLevel: Creating play world package: /Game/Cianan/Levels/UEDPIE_0_TutorialLevelDesign
+[2021.07.02-16.21.49:279][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016457s)
+[2021.07.02-16.21.49:280][371]LogAIModule: Creating AISystem for world TutorialLevelDesign
+[2021.07.02-16.21.49:280][371]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2021.07.02-16.21.49:280][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cianan/Levels/TutorialLevelDesign.TutorialLevelDesign to /Game/Cianan/Levels/UEDPIE_0_TutorialLevelDesign.TutorialLevelDesign (0.017318s)
+[2021.07.02-16.21.49:297][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.07.02-16.21.49:298][371]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.07.02-16.21.49:298][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-16.21.49:298][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-16.21.49:298][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-16.21.49:298][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-16.21.49:298][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-16.21.49:298][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-16.21.49:298][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-16.21.49:298][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-16.21.49:298][371]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-16.21.49:298][371]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-16.21.49:306][371]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-16.21.49:306][371]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-16.21.49:316][371]LogAudioMixer: Display: Using Audio Device Speakers (         TX-70        )
+[2021.07.02-16.21.49:317][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-16.21.49:317][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-16.21.49:317][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-16.21.49:317][371]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-16.21.49:317][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-16.21.49:317][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-16.21.49:327][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-16.21.49:327][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-16.21.49:327][371]LogInit: FAudioDevice initialized.
+[2021.07.02-16.21.49:327][371]LogAudio: Display: Audio Device (ID: 14) registered with world 'TutorialLevelDesign'.
+[2021.07.02-16.21.49:330][371]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.02-16.21.49:336][371]LogWorld: Bringing World /Game/Cianan/Levels/UEDPIE_0_TutorialLevelDesign.TutorialLevelDesign up for play (max tick rate 0) at 2021.07.02-17.21.49
+[2021.07.02-16.21.49:336][371]LogWorld: Bringing up level for play took: 0.005642
+[2021.07.02-16.21.49:337][371]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.07.02-16.21.49:339][371]PIE: Server logged in
+[2021.07.02-16.21.49:340][371]PIE: Play in editor total start time 0.112 seconds.
+[2021.07.02-16.21.50:924][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.21.50:924][549]LogWorld: BeginTearingDown for /Game/Cianan/Levels/UEDPIE_0_TutorialLevelDesign
+[2021.07.02-16.21.50:925][549]LogWorld: UWorld::CleanupWorld for TutorialLevelDesign, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.21.50:926][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.21.50:930][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-16.21.50:932][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.21.50:947][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.21.50:948][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.21.50:948][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.21.50:959][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.21.50:964][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.07.02-16.21.50:985][550]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.07.02-16.21.52:526][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.07.02-16.21.52:571][729]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/Levels/TutorialLevelGame.TutorialLevelGame
+[2021.07.02-16.21.52:571][729]Cmd: MAP LOAD FILE="C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/Levels/TutorialLevelGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.02-16.21.52:571][729]LightingResults: New page: Lighting Build
+[2021.07.02-16.21.52:571][729]LoadErrors: New page: Loading map: TutorialLevelGame.umap
+[2021.07.02-16.21.52:573][729]LogWorld: UWorld::CleanupWorld for TutorialLevelDesign, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.21.52:573][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.21.52:574][729]MapCheck: New page: Map Check
+[2021.07.02-16.21.52:574][729]LightingResults: New page: Lighting Build
+[2021.07.02-16.21.52:590][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.21.52:595][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.07.02-16.21.52:611][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.07.02-16.21.52:626][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.07.02-16.21.52:626][729]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelGame'.
+[2021.07.02-16.21.52:711][729]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.02-16.21.52:711][729]LogAIModule: Creating AISystem for world TutorialLevelGame
+[2021.07.02-16.21.52:731][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.07.02-16.21.52:739][729]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.02-16.21.52:739][729]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.476ms to complete.
+[2021.07.02-16.21.52:739][729]LogFileHelpers: Loading map 'TutorialLevelGame' took 0.169
+[2021.07.02-16.21.53:318][788]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-16.21.53:325][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-16.21.53:325][788]PIE: New page: PIE session: TutorialLevelGame (2 Jul 2021, 18:21:53)
+[2021.07.02-16.21.53:325][788]LogPlayLevel: Creating play world package: /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame
+[2021.07.02-16.21.53:342][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016433s)
+[2021.07.02-16.21.53:342][788]LogAIModule: Creating AISystem for world TutorialLevelGame
+[2021.07.02-16.21.53:343][788]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2021.07.02-16.21.53:343][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cianan/Levels/TutorialLevelGame.TutorialLevelGame to /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame (0.017263s)
+[2021.07.02-16.21.53:359][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.07.02-16.21.53:360][788]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.07.02-16.21.53:360][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-16.21.53:360][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-16.21.53:360][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-16.21.53:360][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-16.21.53:360][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-16.21.53:360][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-16.21.53:360][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-16.21.53:360][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-16.21.53:360][788]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-16.21.53:360][788]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-16.21.53:367][788]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-16.21.53:367][788]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-16.21.53:377][788]LogAudioMixer: Display: Using Audio Device Speakers (         TX-70        )
+[2021.07.02-16.21.53:377][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-16.21.53:377][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-16.21.53:377][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-16.21.53:377][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-16.21.53:377][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-16.21.53:377][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-16.21.53:387][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-16.21.53:387][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-16.21.53:387][788]LogInit: FAudioDevice initialized.
+[2021.07.02-16.21.53:387][788]LogAudio: Display: Audio Device (ID: 15) registered with world 'TutorialLevelGame'.
+[2021.07.02-16.21.53:397][788]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.02-16.21.53:403][788]LogWorld: Bringing World /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame up for play (max tick rate 0) at 2021.07.02-17.21.53
+[2021.07.02-16.21.53:403][788]LogWorld: Bringing up level for play took: 0.005664
+[2021.07.02-16.21.53:403][788]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.07.02-16.21.53:406][788]PIE: Server logged in
+[2021.07.02-16.21.53:407][788]PIE: Play in editor total start time 0.082 seconds.
+[2021.07.02-16.22.09:692][740]LogBlueprintUserMessages: [FireTotem_2] Acquired Fire
+[2021.07.02-16.22.17:285][651]LogBlueprintUserMessages: [Burnable1_7] Burn
+[2021.07.02-16.23.10:854][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.23.10:854][ 45]LogWorld: BeginTearingDown for /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame
+[2021.07.02-16.23.10:854][ 45]LogWorld: UWorld::CleanupWorld for TutorialLevelGame, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.23.10:855][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.23.10:862][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-16.23.10:865][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.23.10:879][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.23.10:880][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.23.10:881][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.23.10:896][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.07.02-16.23.10:918][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.07.02-16.23.47:761][390]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.02-16.23.47:761][390]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.23.47:761][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.23.59:604][771]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Group/Blueprint/MagicBalls/FireBall.FireBall
+[2021.07.02-16.24.01:325][918]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.24.01:325][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.24.01:364][918]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Group/Blueprint/MagicBalls/FireBall.FireBall
+[2021.07.02-16.24.22:932][361]BlueprintLog: New page: Compile FireBall
+[2021.07.02-16.24.22:963][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.07.02-16.24.29:185][ 80]BlueprintLog: New page: Compile FireBall
+[2021.07.02-16.24.29:214][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.07.02-16.24.30:483][226]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-16.24.30:489][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-16.24.30:490][226]PIE: New page: PIE session: TutorialLevelGame (2 Jul 2021, 18:24:30)
+[2021.07.02-16.24.30:522][226]LogPlayLevel: Creating play world package: /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame
+[2021.07.02-16.24.30:539][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016130s)
+[2021.07.02-16.24.30:540][226]LogAIModule: Creating AISystem for world TutorialLevelGame
+[2021.07.02-16.24.30:540][226]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2021.07.02-16.24.30:540][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cianan/Levels/TutorialLevelGame.TutorialLevelGame to /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame (0.017104s)
+[2021.07.02-16.24.30:557][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.07.02-16.24.30:558][226]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.07.02-16.24.30:558][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-16.24.30:558][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-16.24.30:558][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-16.24.30:558][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-16.24.30:558][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-16.24.30:558][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-16.24.30:558][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-16.24.30:558][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-16.24.30:558][226]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-16.24.30:558][226]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-16.24.30:565][226]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-16.24.30:565][226]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-16.24.30:576][226]LogAudioMixer: Display: Using Audio Device Speakers (         TX-70        )
+[2021.07.02-16.24.30:576][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-16.24.30:576][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-16.24.30:576][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-16.24.30:576][226]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-16.24.30:576][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-16.24.30:576][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-16.24.30:586][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-16.24.30:586][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-16.24.30:586][226]LogInit: FAudioDevice initialized.
+[2021.07.02-16.24.30:586][226]LogAudio: Display: Audio Device (ID: 16) registered with world 'TutorialLevelGame'.
+[2021.07.02-16.24.30:589][226]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.02-16.24.30:595][226]LogWorld: Bringing World /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame up for play (max tick rate 0) at 2021.07.02-17.24.30
+[2021.07.02-16.24.30:595][226]LogWorld: Bringing up level for play took: 0.005472
+[2021.07.02-16.24.30:595][226]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.07.02-16.24.30:598][226]PIE: Server logged in
+[2021.07.02-16.24.30:598][226]PIE: Play in editor total start time 0.109 seconds.
+[2021.07.02-16.24.31:789][366]LogBlueprintUserMessages: [FireTotem_2] Acquired Fire
+[2021.07.02-16.24.36:556][938]LogBlueprintUserMessages: [Burnable1_7] Burn
+[2021.07.02-16.24.51:854][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.24.51:854][770]LogWorld: BeginTearingDown for /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame
+[2021.07.02-16.24.51:854][770]LogWorld: UWorld::CleanupWorld for TutorialLevelGame, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.24.51:855][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.24.51:866][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-16.24.51:869][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.24.51:885][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.24.51:885][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.24.51:886][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.24.51:897][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.24.51:900][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.07.02-16.24.51:923][771]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.07.02-16.24.58:997][609]BlueprintLog: New page: Compile FireBall
+[2021.07.02-16.24.59:034][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.07.02-16.24.59:773][690]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-16.24.59:780][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-16.24.59:780][690]PIE: New page: PIE session: TutorialLevelGame (2 Jul 2021, 18:24:59)
+[2021.07.02-16.24.59:813][690]LogPlayLevel: Creating play world package: /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame
+[2021.07.02-16.24.59:829][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016162s)
+[2021.07.02-16.24.59:830][690]LogAIModule: Creating AISystem for world TutorialLevelGame
+[2021.07.02-16.24.59:830][690]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2021.07.02-16.24.59:830][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cianan/Levels/TutorialLevelGame.TutorialLevelGame to /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame (0.016992s)
+[2021.07.02-16.24.59:847][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.07.02-16.24.59:848][690]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.07.02-16.24.59:848][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-16.24.59:848][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-16.24.59:848][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-16.24.59:848][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-16.24.59:848][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-16.24.59:848][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-16.24.59:848][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-16.24.59:848][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-16.24.59:848][690]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-16.24.59:848][690]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-16.24.59:855][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-16.24.59:855][690]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-16.24.59:865][690]LogAudioMixer: Display: Using Audio Device Speakers (         TX-70        )
+[2021.07.02-16.24.59:865][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-16.24.59:866][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-16.24.59:866][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-16.24.59:866][690]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-16.24.59:866][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-16.24.59:866][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-16.24.59:876][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-16.24.59:876][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-16.24.59:876][690]LogInit: FAudioDevice initialized.
+[2021.07.02-16.24.59:876][690]LogAudio: Display: Audio Device (ID: 17) registered with world 'TutorialLevelGame'.
+[2021.07.02-16.24.59:884][690]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.02-16.24.59:890][690]LogWorld: Bringing World /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame up for play (max tick rate 0) at 2021.07.02-17.24.59
+[2021.07.02-16.24.59:890][690]LogWorld: Bringing up level for play took: 0.005392
+[2021.07.02-16.24.59:890][690]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.07.02-16.24.59:893][690]PIE: Server logged in
+[2021.07.02-16.24.59:893][690]PIE: Play in editor total start time 0.114 seconds.
+[2021.07.02-16.25.00:983][818]LogBlueprintUserMessages: [FireTotem_2] Acquired Fire
+[2021.07.02-16.25.10:983][ 16]LogBlueprintUserMessages: [Burnable1_7] Burn
+[2021.07.02-16.25.13:441][311]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-774.137 Y=814.214 Z=102.986] for [FireBall_C]
+[2021.07.02-16.25.43:118][165]LogScript: Warning: Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill
+	FireBall_C /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame:PersistentLevel.FireBall_C_52
+	Function /Game/Group/Blueprint/MagicBalls/MagicBall_Group.MagicBall_Group_C:ExecuteUbergraph_MagicBall_Group:0090
+[2021.07.02-16.25.43:118][165]PIE: Error: Blueprint Runtime Error: "Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill". Blueprint:  MagicBall_Group Function:  Execute Ubergraph Magic Ball Group Graph:  EventGraph Node:  Branch
+[2021.07.02-16.25.43:119][165]LogScript: Warning: Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill
+	FireBall_C /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame:PersistentLevel.FireBall_C_39
+	Function /Game/Group/Blueprint/MagicBalls/MagicBall_Group.MagicBall_Group_C:ExecuteUbergraph_MagicBall_Group:0090
+[2021.07.02-16.25.43:119][165]PIE: Error: Blueprint Runtime Error: "Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill". Blueprint:  MagicBall_Group Function:  Execute Ubergraph Magic Ball Group Graph:  EventGraph Node:  Branch
+[2021.07.02-16.25.43:119][165]LogScript: Warning: Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill
+	FireBall_C /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame:PersistentLevel.FireBall_C_43
+	Function /Game/Group/Blueprint/MagicBalls/MagicBall_Group.MagicBall_Group_C:ExecuteUbergraph_MagicBall_Group:0090
+[2021.07.02-16.25.43:119][165]PIE: Error: Blueprint Runtime Error: "Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill". Blueprint:  MagicBall_Group Function:  Execute Ubergraph Magic Ball Group Graph:  EventGraph Node:  Branch
+[2021.07.02-16.25.43:119][165]LogScript: Warning: Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill
+	FireBall_C /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame:PersistentLevel.FireBall_C_47
+	Function /Game/Group/Blueprint/MagicBalls/MagicBall_Group.MagicBall_Group_C:ExecuteUbergraph_MagicBall_Group:0090
+[2021.07.02-16.25.43:119][165]PIE: Error: Blueprint Runtime Error: "Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill". Blueprint:  MagicBall_Group Function:  Execute Ubergraph Magic Ball Group Graph:  EventGraph Node:  Branch
+[2021.07.02-16.25.47:409][680]LogScript: Warning: Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill
+	FireBall_C /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame.TutorialLevelGame:PersistentLevel.FireBall_C_59
+	Function /Game/Group/Blueprint/MagicBalls/MagicBall_Group.MagicBall_Group_C:ExecuteUbergraph_MagicBall_Group:0090
+[2021.07.02-16.25.47:410][680]PIE: Error: Blueprint Runtime Error: "Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill". Blueprint:  MagicBall_Group Function:  Execute Ubergraph Magic Ball Group Graph:  EventGraph Node:  Branch
+[2021.07.02-16.25.52:574][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.25.52:574][296]LogWorld: BeginTearingDown for /Game/Cianan/Levels/UEDPIE_0_TutorialLevelGame
+[2021.07.02-16.25.52:574][296]LogWorld: UWorld::CleanupWorld for TutorialLevelGame, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.25.52:575][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.25.52:586][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-16.25.52:589][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.25.52:607][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.25.52:607][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.25.52:607][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.25.52:619][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.25.52:622][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.07.02-16.25.52:680][297]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.07.02-16.25.59:396][786]LogSlate: Window 'Message Log' being destroyed
+[2021.07.02-16.25.59:399][786]LogSlate: Window 'Message Log' being destroyed
+[2021.07.02-16.27.18:822][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.07.02-16.27.18:856][520]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/FireBall3D7CAC8642E2B564DBDEF5BBFAB5ED8F.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Group/Blueprint/MagicBalls/FireBall.uasset'
+[2021.07.02-16.27.18:865][520]AssetCheck: New page: Asset Save: FireBall
+[2021.07.02-16.27.18:865][520]LogContentValidation: Display: Validating Blueprint /Game/Group/Blueprint/MagicBalls/FireBall.FireBall
+[2021.07.02-16.27.19:988][653]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.27.19:988][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.27.27:464][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.07.02-16.27.27:477][514]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.07.02-16.27.27:477][514]Cmd: MAP LOAD FILE="C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.02-16.27.27:477][514]LightingResults: New page: Lighting Build
+[2021.07.02-16.27.27:477][514]LoadErrors: New page: Loading map: MainAreaLevel.umap
+[2021.07.02-16.27.27:503][514]LogWorld: UWorld::CleanupWorld for TutorialLevelGame, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.27.27:504][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.27.27:504][514]MapCheck: New page: Map Check
+[2021.07.02-16.27.27:504][514]LightingResults: New page: Lighting Build
+[2021.07.02-16.27.27:518][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.27.27:523][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.07.02-16.27.27:534][514]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainAreaLevel'.
+[2021.07.02-16.27.27:643][514]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.02-16.27.27:643][514]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.07.02-16.27.27:662][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.07.02-16.27.27:670][514]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.02-16.27.27:670][514]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2021.07.02-16.27.27:670][514]LogFileHelpers: Loading map 'MainAreaLevel' took 0.193
+[2021.07.02-16.27.31:349][914]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-16.27.31:356][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-16.27.31:356][914]PIE: New page: PIE session: MainAreaLevel (2 Jul 2021, 18:27:31)
+[2021.07.02-16.27.31:393][914]LogPlayLevel: Creating play world package: /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.27.31:427][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033561s)
+[2021.07.02-16.27.31:427][914]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.07.02-16.27.31:427][914]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2021.07.02-16.27.31:428][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel to /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel (0.034409s)
+[2021.07.02-16.27.31:442][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.07.02-16.27.31:444][914]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.07.02-16.27.31:444][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-16.27.31:444][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-16.27.31:444][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-16.27.31:444][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-16.27.31:444][914]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-16.27.31:444][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-16.27.31:444][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-16.27.31:444][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-16.27.31:444][914]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-16.27.31:444][914]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-16.27.31:452][914]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-16.27.31:452][914]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-16.27.31:462][914]LogAudioMixer: Display: Using Audio Device Speakers (         TX-70        )
+[2021.07.02-16.27.31:462][914]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-16.27.31:463][914]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-16.27.31:463][914]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-16.27.31:463][914]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-16.27.31:463][914]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-16.27.31:463][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-16.27.31:473][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-16.27.31:473][914]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-16.27.31:473][914]LogInit: FAudioDevice initialized.
+[2021.07.02-16.27.31:473][914]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainAreaLevel'.
+[2021.07.02-16.27.31:476][914]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.02-16.27.31:483][914]LogWorld: Bringing World /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel up for play (max tick rate 0) at 2021.07.02-17.27.31
+[2021.07.02-16.27.31:484][914]LogWorld: Bringing up level for play took: 0.006930
+[2021.07.02-16.27.31:484][914]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.07.02-16.27.31:487][914]PIE: Server logged in
+[2021.07.02-16.27.31:487][914]PIE: Play in editor total start time 0.133 seconds.
+[2021.07.02-16.27.33:154][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.27.33:154][106]LogWorld: BeginTearingDown for /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.27.33:155][106]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.27.33:156][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.27.33:167][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-16.27.33:169][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.27.33:181][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.27.33:182][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.27.33:182][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.27.33:193][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.27.33:199][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.07.02-16.27.33:223][107]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.07.02-16.28.09:225][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.07.02-16.28.09:273][376]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cianan/Levels/TutorialLevelDesign.TutorialLevelDesign
+[2021.07.02-16.28.09:273][376]Cmd: MAP LOAD FILE="C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Cianan/Levels/TutorialLevelDesign.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.02-16.28.09:273][376]LightingResults: New page: Lighting Build
+[2021.07.02-16.28.09:273][376]LoadErrors: New page: Loading map: TutorialLevelDesign.umap
+[2021.07.02-16.28.09:303][376]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.28.09:303][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.28.09:303][376]MapCheck: New page: Map Check
+[2021.07.02-16.28.09:303][376]LightingResults: New page: Lighting Build
+[2021.07.02-16.28.09:320][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.28.09:325][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.07.02-16.28.09:326][376]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevelDesign'.
+[2021.07.02-16.28.09:404][376]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.02-16.28.09:404][376]LogAIModule: Creating AISystem for world TutorialLevelDesign
+[2021.07.02-16.28.09:422][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.07.02-16.28.09:430][376]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.02-16.28.09:430][376]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2021.07.02-16.28.09:430][376]LogFileHelpers: Loading map 'TutorialLevelDesign' took 0.157
+[2021.07.02-16.28.11:920][657]LogEditorViewport: Clicking on Actor (LMB): FireTotem_C (FireTotem)
+[2021.07.02-16.28.22:906][915]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/Totems/FireTotem.FireTotem
+[2021.07.02-16.28.39:552][802]LogSlate: Window 'FireTotem' being destroyed
+[2021.07.02-16.28.57:935][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.07.02-16.28.58:015][982]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.07.02-16.28.58:015][982]Cmd: MAP LOAD FILE="C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.02-16.28.58:015][982]LightingResults: New page: Lighting Build
+[2021.07.02-16.28.58:015][982]LoadErrors: New page: Loading map: MainAreaLevel.umap
+[2021.07.02-16.28.58:043][982]LogWorld: UWorld::CleanupWorld for TutorialLevelDesign, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.28.58:043][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.28.58:044][982]MapCheck: New page: Map Check
+[2021.07.02-16.28.58:044][982]LightingResults: New page: Lighting Build
+[2021.07.02-16.28.58:063][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.28.58:067][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.07.02-16.28.58:068][982]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainAreaLevel'.
+[2021.07.02-16.28.58:174][982]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.02-16.28.58:174][982]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.07.02-16.28.58:194][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.07.02-16.28.58:202][982]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.02-16.28.58:202][982]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2021.07.02-16.28.58:202][982]LogFileHelpers: Loading map 'MainAreaLevel' took 0.187
+[2021.07.02-16.29.04:942][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Elliott_MainAreaLevel/FireTotem.FireTotem
+[2021.07.02-16.29.11:129][462]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.29.11:129][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.29.19:221][335]LogActorFactory: Actor Factory created TotemFire
+[2021.07.02-16.29.19:499][361]LogActorFactory: Actor Factory created TotemFire
+[2021.07.02-16.29.28:330][369]LogActorFactory: Actor Factory created TotemFire
+[2021.07.02-16.29.28:690][404]LogActorFactory: Actor Factory created TotemFire
+[2021.07.02-16.29.29:353][472]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-16.29.29:360][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-16.29.29:360][472]PIE: New page: PIE session: MainAreaLevel (2 Jul 2021, 18:29:29)
+[2021.07.02-16.29.29:383][472]LogPlayLevel: Creating play world package: /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.29.29:417][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033841s)
+[2021.07.02-16.29.29:417][472]LogAIModule: Creating AISystem for world MainAreaLevel
+[2021.07.02-16.29.29:418][472]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2021.07.02-16.29.29:418][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel to /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel (0.034706s)
+[2021.07.02-16.29.29:436][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.07.02-16.29.29:439][472]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.07.02-16.29.29:439][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-16.29.29:439][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-16.29.29:439][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-16.29.29:439][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-16.29.29:439][472]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-16.29.29:439][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-16.29.29:439][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-16.29.29:439][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-16.29.29:439][472]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-16.29.29:439][472]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-16.29.29:446][472]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-16.29.29:446][472]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-16.29.29:457][472]LogAudioMixer: Display: Using Audio Device Speakers (         TX-70        )
+[2021.07.02-16.29.29:457][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-16.29.29:457][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-16.29.29:457][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-16.29.29:457][472]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-16.29.29:457][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-16.29.29:457][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-16.29.29:467][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-16.29.29:467][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-16.29.29:467][472]LogInit: FAudioDevice initialized.
+[2021.07.02-16.29.29:467][472]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainAreaLevel'.
+[2021.07.02-16.29.29:476][472]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.02-16.29.29:482][472]LogWorld: Bringing World /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel.MainAreaLevel up for play (max tick rate 0) at 2021.07.02-17.29.29
+[2021.07.02-16.29.29:483][472]LogWorld: Bringing up level for play took: 0.006773
+[2021.07.02-16.29.29:483][472]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.07.02-16.29.29:486][472]PIE: Server logged in
+[2021.07.02-16.29.29:486][472]PIE: Play in editor total start time 0.127 seconds.
+[2021.07.02-16.29.34:094][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.29.34:094][ 17]LogWorld: BeginTearingDown for /Game/Elliott_MainAreaLevel/UEDPIE_0_MainAreaLevel
+[2021.07.02-16.29.34:095][ 17]LogWorld: UWorld::CleanupWorld for MainAreaLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-16.29.34:096][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.29.34:102][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-16.29.34:114][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-16.29.34:130][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-16.29.34:130][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.29.34:131][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-16.29.34:142][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-16.29.34:148][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.07.02-16.29.34:182][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.07.02-16.29.56:020][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TotemFire2)
+[2021.07.02-16.29.56:861][530]Cmd: DELETE
+[2021.07.02-16.29.56:861][530]Cmd: ACTOR DELETE
+[2021.07.02-16.29.56:870][530]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.02-16.29.56:887][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.07.02-16.29.56:890][530]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.07.02-16.30.04:882][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.07.02-16.30.04:910][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.07.02-16.30.05:152][472]LogSavePackage: Moving 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Saved/MainAreaLevel610CAF90478086BFC46D2ABCB6DFE1C4.tmp' to 'C:/Users/Elliott/Documents/GitHub/ReferrralJam/GJRTutorialLevel/Content/Elliott_MainAreaLevel/MainAreaLevel.umap'
+[2021.07.02-16.30.05:162][472]LogFileHelpers: Saving map 'MainAreaLevel' took 0.269
+[2021.07.02-16.30.05:168][472]AssetCheck: New page: Asset Save: MainAreaLevel
+[2021.07.02-16.30.05:168][472]LogContentValidation: Display: Validating World /Game/Elliott_MainAreaLevel/MainAreaLevel.MainAreaLevel
+[2021.07.02-16.30.16:854][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
