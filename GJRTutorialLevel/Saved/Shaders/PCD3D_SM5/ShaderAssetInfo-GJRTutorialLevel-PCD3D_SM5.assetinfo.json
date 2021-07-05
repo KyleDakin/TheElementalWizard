@@ -286,13 +286,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
-			"Assets": [
-				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset",
-				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Chenyi/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
 			"Assets": [
 				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset",
@@ -334,6 +327,13 @@
 			"Assets": [
 				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/StarterContent/Materials/M_Basic_Wall.uasset",
 				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Chenyi/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
+			"Assets": [
+				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset",
+				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Chenyi/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
 			]
 		},
 		{
@@ -704,26 +704,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B1792DD387C7D34880F6DCA4465C5BEDF6D36971",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "ECF211909B951137D59C1A4B4AC46570D95B1FC7",
-			"Assets": [
-				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset",
-				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Chenyi/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "F149164436465E20E7F626109FB5766FA03745F2",
-			"Assets": [
-				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset",
-				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Chenyi/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "FCAC9CD95037A5AD3304161E9E9FFB366B34A74F",
 			"Assets": [
 				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/StarterContent/Materials/M_AssetPlatform.uasset",
@@ -760,6 +740,26 @@
 			"ShaderMapHash": "2C689D8EB30EE8AB7E0C31A1DC5F660B7EA63011",
 			"Assets": [
 				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1792DD387C7D34880F6DCA4465C5BEDF6D36971",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ECF211909B951137D59C1A4B4AC46570D95B1FC7",
+			"Assets": [
+				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset",
+				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Chenyi/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F149164436465E20E7F626109FB5766FA03745F2",
+			"Assets": [
+				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset",
+				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Chenyi/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
 			]
 		},
 		{
@@ -817,16 +817,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
-			"Assets": [
-				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "EC566AB6AD57F2399A53C9BBE216F556CCED30AB",
 			"Assets": [
-				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Characters/LumM5.uasset",
 				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Characters/LumM4.uasset",
+				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Characters/LumM5.uasset",
 				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Characters/LumM3.uasset",
 				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Characters/LumM2.uasset",
 				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Characters/LumM1.uasset"
@@ -850,6 +844,12 @@
 			"ShaderMapHash": "24FFFE21E85180BCCBF1A0BCACD0ACD99754A8F6",
 			"Assets": [
 				"D:/Uni Work/Final Year/ReferrralJam/GJRTutorialLevel/Content/Cianan/Materials/Fog.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
 			]
 		},
 		{
