@@ -1,1 +1,1 @@
-# ReferrralJam
+# The Elemental Wizard
